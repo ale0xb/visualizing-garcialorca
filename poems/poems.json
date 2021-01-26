@@ -20,7 +20,7 @@
     {       
         "book": "Canciones",
         "body": "El canto quiere ser luz.\nEn lo oscuro el canto tiene\nhilos de fósforo y luna.\nLa luz no sabe qué quiere.\nEn sus límites de ópalo,\nse encuentra ella misma,\ny vuelve.",
-        "subtitle": "(El canto quiere ser luz)",
+        "subtitle": "El canto quiere ser luz",
         "title": "Teorías"
     },
     {       
@@ -68,7 +68,7 @@
     {       
         "book": "Canciones",
         "body": "Agosto.\nContraponientes\nde melocotón y azúcar,\ny el sol dentro de la tarde,\ncomo el hueso en una fruta.\n\nLa panocha guarda intacta\nsu risa amarilla y dura.\n\nAgosto.\nLos niños comen\npan moreno y rica luna.",
-        "subtitle": "(Agosto)",
+        "subtitle": "Agosto",
         "title": "Teorías"
     },
     {       
@@ -85,26 +85,26 @@
     },
     {       
         "book": "Canciones",
-        "body": "I\nAlta va la luna.\nBajo corre el viento.\n\n(Mis largas miradas,\nexploran el cielo.)\n\nLuna sobre el agua.\nLuna bajo el viento.\n\n(Mis cortas miradas,\nexploran el suelo.)\n\nLas voces de dos niñas\nvenían. Sin esfuerzo,\nde la luna del agua,\nme fui a la del cielo.",
-        "subtitle": "A la memoria de José Ciria y Escalante. Poeta\nI\nAlta va la luna.\nBajo corre el viento.\n\n(Mis largas miradas,\nexploran el cielo.)\n\nLuna sobre el agua.\nLuna bajo el viento.\n\n(Mis cortas miradas,\nexploran el suelo.)\n\nLas voces de dos niñas\nvenían. Sin esfuerzo,\nde la luna del agua,\nme fui a la del cielo.",
+        "body": "Alta va la luna.\nBajo corre el viento.\n\n(Mis largas miradas,\nexploran el cielo.)\n\nLuna sobre el agua.\nLuna bajo el viento.\n\n(Mis cortas miradas,\nexploran el suelo.)\n\nLas voces de dos niñas\nvenían. Sin esfuerzo,\nde la luna del agua,\nme fui a la del cielo.",
+        "subtitle": "I",
         "title": "Nocturnos de la ventana"
     },
     {       
         "book": "Canciones",
-        "body": "II\nUn brazo de la noche\nentra por mi ventana.\n\nUn gran brazo moreno\ncon pulseras de agua.\n\nSobre un cristal azul\njugaba al río mi alma.\n\nLos instantes heridos\npor el reloj pasaban.",
-        "subtitle": "II\nUn brazo de la noche\nentra por mi ventana.\n\nUn gran brazo moreno\ncon pulseras de agua.\n\nSobre un cristal azul\njugaba al río mi alma.\n\nLos instantes heridos\npor el reloj pasaban.",
+        "body": "Un brazo de la noche\nentra por mi ventana.\n\nUn gran brazo moreno\ncon pulseras de agua.\n\nSobre un cristal azul\njugaba al río mi alma.\n\nLos instantes heridos\npor el reloj pasaban.",
+        "subtitle": "II",
         "title": "Nocturnos de la ventana"
     },
     {       
         "book": "Canciones",
-        "body": "III\nAsomo la cabeza\npor mi ventana, y veo\ncómo quiere cortarla\nla cuchilla del viento.\n\nEn esta guillotina\ninvisible, yo he puesto\nla cabeza sin ojos\nde todos mis deseos.\n\nY un olor de limón \nllenó el instante inmenso,\nmientras se convertía\nen flor de gasa el viento.",
-        "subtitle": "III\nAsomo la cabeza\npor mi ventana, y veo\ncómo quiere cortarla\nla cuchilla del viento.\n\nEn esta guillotina\ninvisible, yo he puesto\nla cabeza sin ojos\nde todos mis deseos.\n\nY un olor de limón \nllenó el instante inmenso,\nmientras se convertía\nen flor de gasa el viento.",
+        "body": "Asomo la cabeza\npor mi ventana, y veo\ncómo quiere cortarla\nla cuchilla del viento.\n\nEn esta guillotina\ninvisible, yo he puesto\nla cabeza sin ojos\nde todos mis deseos.\n\nY un olor de limón \nllenó el instante inmenso,\nmientras se convertía\nen flor de gasa el viento.",
+        "subtitle": "III",
         "title": "Nocturnos de la ventana"
     },
     {       
         "book": "Canciones",
-        "body": "IV\nAl estanque se le ha muerto\nhoy una niña de agua.\nEstá fuera del estanque.\nsobre el suelo amortajada.\n\nDe la cabeza a sus muslos\nun pez la cruza, llamándola.\nEl viento le dice \"niña\",\nmas no puede despertarla.\n\nEl estanque tiene suelta\nsu cabellera de algas\ny al aire sus grises tetas\nestremecidas de ranas.\n\nDios te salve, Rezaremos\na Nuestra Señora de Agua\npor la niña del estanque\nmuerta bajo las manzanas.\n\nYo luego pondré a su lado\ndos pequeñas calabazas\npara que se tenga a flote,\n¡ay!, sobre la mar salada.",
-        "subtitle": "Anterior... \n...Índice",
+        "body": "Al estanque se le ha muerto\nhoy una niña de agua.\nEstá fuera del estanque.\nsobre el suelo amortajada.\n\nDe la cabeza a sus muslos\nun pez la cruza, llamándola.\nEl viento le dice \"niña\",\nmas no puede despertarla.\n\nEl estanque tiene suelta\nsu cabellera de algas\ny al aire sus grises tetas\nestremecidas de ranas.\n\nDios te salve, Rezaremos\na Nuestra Señora de Agua\npor la niña del estanque\nmuerta bajo las manzanas.\n\nYo luego pondré a su lado\ndos pequeñas calabazas\npara que se tenga a flote,\n¡ay!, sobre la mar salada.",
+        "subtitle": "IV",
         "title": "Nocturnos de la ventana"
     },
     {       
@@ -200,7 +200,7 @@
     {       
         "book": "Canciones",
         "body": "Galán\n\ngalancillo.\nEn tu casa queman tomillo.\n\nNi que vayas, ni que vengas,\ncon llave cierro la puerta.\n\nCon llave de plata fina.\nAtada con una cinta.\n\nEn la cinta hay un letrero:\n\"Mi corazón está lejos.\"\n\nNo des vueltas en mi calle.\n¡Déjasela toda al aire!\n\nGalán,\ngalancillo.\nEn tu casa queman tomillo.",
-        "subtitle": "(Galán)",
+        "subtitle": "Galán",
         "title": "Andaluzas"
     },
     {       
@@ -315,43 +315,43 @@
         "book": "Canciones",
         "body": "Eras rosa.\nTe pusiste alimonada.\n\n¿Qué intención viste en mi mano\nque casi te amenazaba?\n\nQuise las manzanas verdes.\nNo las manzanas rosadas...\n\nalimonada...\n\n(Grulla dormida la tarde,\npuso en tierra la otra pata.)",
         "subtitle": "Susto en el comedor",
-        "title": "Eros con bastón \n(1925)"
+        "title": "Eros con bastón"
     },
     {       
         "book": "Canciones",
         "body": "Lucía Martínez.\nUmbría de seda roja.\n\nTus muslos como la tarde\nvan de la luz a la sombra.\nLos azabaches recónditos\noscurecen tus magnolias.\n\nAquí estoy, Lucía Martínez.\nVengo a consumir tu boc\ny a arrastrarle del cabello\nen madrugada de conchas.\n\nPorque quiero, y porque puedo.\nUmbría de seda roja.",
         "subtitle": "Lucía Martínez",
-        "title": "Eros con bastón (1925)"
+        "title": "Eros con bastón"
     },
     {       
         "book": "Canciones",
         "body": "Bajo el Moisés del incienso,\nadormecida.\n\nOjos de toro te miraban.\nTu rosario llovía.\n\nCon ese traje de profunda seda,\nno te muevas, Virginia.\n\nDa los negros melones de tus pechos\nal rumor de la misa.",
         "subtitle": "La soltera en misa",
-        "title": "Eros con bastón \n(1925)"
+        "title": "Eros con bastón"
     },
     {       
         "book": "Canciones",
         "body": "Ni quiero ser poeta,\nni galante.\n¡Sábanas blancas donde te desmayes!\n\nNo conoces el sueño\nni el resplandor del día.\nComo los calamares,\nciegas desnuda en tinta de perfume.\nCarmen.",
         "subtitle": "Interior",
-        "title": "Eros con bastón \n(1925)"
+        "title": "Eros con bastón"
     },
     {       
         "book": "Canciones",
         "body": "Bajo la adelfa sin luna\nestabas fea desnuda.\n\nTu carne buscó en mi mapa\nel amarillo de España.\n\nQué fea estabas, francesa,\nen lo amargo de la adelfa.\n\nRoja y verde, eché a tu cuerpo\nla capa de mi talento.\n\nVerde y roja, roja y verde.\n¡Aquí somos otra gente!",
         "subtitle": "Nu",
-        "title": "Eros con bastón \n(1925)"
+        "title": "Eros con bastón"
     },
     {       
         "book": "Canciones",
         "body": "Por las orillas del río\nse está la noche mojando\ny en los pechos de Lolita\nse mueren de amor los ramos.\n\nSe mueren de amor los ramos.\n\nLa noche canta desnuda\nsobre los puentes de marzo.\nLolita lava su cuerpo\ncon agua salobre y nardos.\n\nSe mueren de amor los ramos.\n\nLa noche de anís y plata\nrelumbra por los tejados.\nPlata de arroyos y espejos.\nAnís de tus muslos blancos.\n\nSe mueren de amor los ramos.",
         "subtitle": "Serenata",
-        "title": "Eros con bastón \n(1925)"
+        "title": "Eros con bastón"
     },
     {       
         "book": "Canciones",
         "body": "Suntuosa Leonarda.\nCarne pontifical y traje blanco,\nen las barandas de \"Villa Leonarda\".\nExpuesta a los tranvías y a los barcos.\nNegros torsos bañistas oscurecen\nla ribera del mar. Oscilando,\nconcha y loto a la vez,\nviene tu culo\nde Ceres en retórica de mármol.",
         "subtitle": "En Málaga",
-        "title": "Eros con bastón \n(1925)"
+        "title": "Eros con bastón"
     },
     {       
         "book": "Canciones",
@@ -774,7 +774,7 @@
     {       
         "book": "Libro de Poemas",
         "body": "Yo pronuncio tu nombre\nen las noches oscuras,\ncuando vienen los astros\na beber en la luna\ny duermen los ramajes\nde las frondas ocultas.\nY yo me siento hueco\nde pasión y de música.\nLoco reloj que canta\nmuertas horas antiguas.\n\nYo pronuncio tu nombre,\nen esta noche oscura,\ny tu nombre me suena\nmás lejano que nunca.\nMás lejano que todas las estrellas\ny más doliente que la mansa lluvia.\n\n¿Te querré como entonces\nalguna vez? ¿Qué culpa\ntiene mi corazón?\nSi la niebla se esfuma,\n¿qué otra pasión me espera?\n¿Será tranquila y pura?\n¡Si mis dedos pudieran\ndeshojar a la luna!",
-        "title": "\nSi mis manos pudieran deshojar"
+        "title": "Si mis manos pudieran deshojar"
     },
     {       
         "book": "Libro de Poemas",
@@ -788,7 +788,7 @@
     },
     {       
         "book": "Libro de Poemas",
-        "body": "\nEsta noche ha pasado Santiago\nsu camino de luz en el cielo.\nLo comentan los niños jugando\ncon el agua de un cauce sereno.\n\n¿Dónde va el peregrino celeste\npor el claro infinito sendero?\nVa a la aurora que brilla en el fondo\nen caballo blanco como el hielo.\n\n¡Niños chicos, cantad en el prado\nhoradando con risas al viento!\n\nDice un hombre que ha visto a Santiago\nen tropel con doscientos guerreros;\niban todos cubiertos de luces,\ncon guirnaldas de verdes luceros,\ny el caballo que monta Santiago \nera un astro de brillos intensos.\n\nDice el hombre que cuenta la historia\nque en la noche dormida se oyeron\ntremolar plateado de alas\nque en sus ondas llevóse el silencio.\n\n¿Qué sería que el río paróse?\nEran ángeles los caballeros.\n\n¡Niños chicos, cantad en el prado.\nhoradando con risas al viento!\n\nEs la noche de luna menguante.\n¡Escuchad! ¿Qué se siente en el cielo,\nque los grillos refuerzan sus cuerdas\ny dan voces los perros vegueros?\n\n—Madre abuela, ¿cuál es el camino,\nmadre abuela, que yo no lo veo?\n\n—Mira bien y verás una cinta\nde polvillo harinoso y espeso,\nun borrón que parece de plata\no de nácar. ¿Lo ves? \n          \n—Ya lo veo.\n\nMadre abuela. ¿Dónde está Santiago?\n—Por allí marcha con su cortejo\nla cabeza llena de plumajes\ny de perlas muy finas el cuerpo,\ncon la luna rendida a sus plantas,\ncon el sol escondido en el pecho.\n\nEsta noche en la vega se escuchan\nlos relatos brumosos del cuento.\n\n¡Niños chicos, cantad en el prado,\nhoradando con risas al viento!\n\nII\nUna vieja que vive muy pobre\nen la parte más alta del pueblo,\nque posee una rueca inservible,\nuna virgen y dos gatos negros,\nmientras hace la ruda calceta\ncon sus secos y temblones dedos,\nrodeada de buenas comadres\ny de sucios chiquillos traviesos,\nen la paz de la noche tranquila,\ncon las sierras perdidas en negro,\nva contando con ritmos tardíos\nla visión que ella tuvo en sus tiempos.\n\nElla vio en una noche lejana\ncomo ésta, sin ruidos ni vientos,\nel apóstol Santiago en persona,\nperegrino en la tierra del cielo.\n\n—Y comadre, ¿cómo iba vestido?\n—le preguntan dos voces a un tiempo—.\n\n—Con bordón de esmeraldas y perlas\ny una túnica de terciopelo.\n\nCuando hubo pasado la puerta,\nmis palomas sus alas tendieron,\ny mi perro, que estaba dormido,\nfue tras él sus pisadas lamiendo.\nEra dulce el Apóstol divino,\nmás aún que la luna de enero.\nA su paso dejó por la senda\nun olor de azucena y de incienso.\n\n—Y comadre, ¿no le dijo nada?\n—la preguntan dos voces a un tiempo—.\n\n—Al pasar me miró sonriente\ny una estrella dejóme aquí dentro.\n\n—¿Dónde tienes guardada esa estrella?\n—la pregunta un chiquillo travieso—.\n\n—¿Se ha apagado-dijéronle otros—\ncomo cosa de un encantamiento?\n\n—No, hijos míos, la estrella relumbra,\nque en el alma clavada la llevo.\n\n—¿Cómo son las estrellas aquí?\n—Hijo mío, igual que en el cielo.\n\n—Siga, siga la vieja comadre.\n¿Dónde iba el glorioso viajero?\n\n—Se perdió por aquellas montañas\ncon mis blancas palomas y el perro.\nPero llena dejome la casa\nde rosales y de jazmineros,\ny las uvas verdes en la parra\nmaduraron, y mi troje lleno\nencontré la siguiente mañana.\nTodo obra del Apóstol bueno.\n\n—¡Grande suerte que tuvo, comadre!\n—sermonean dos voces a un tiempo—.\n\nLos chiquillos están ya dormidos\ny los campos en hondo silencio.\n\n¡Niños chicos, pensad en Santiago\npor los turbios caminos del sueño!\n\n¡Noche clara, finales de julio!\n¡Ha pasado Santiago en el cielo!\n\nLa tristeza que tiene mi alma,\npor el blanco camino la dejo,\npara ver si la encuentran los niños\ny en el agua la vayan hundiendo,\npara ver si en la noche estrellada\na muy lejos la llevan los vientos.",
+        "body": "Esta noche ha pasado Santiago\nsu camino de luz en el cielo.\nLo comentan los niños jugando\ncon el agua de un cauce sereno.\n\n¿Dónde va el peregrino celeste\npor el claro infinito sendero?\nVa a la aurora que brilla en el fondo\nen caballo blanco como el hielo.\n\n¡Niños chicos, cantad en el prado\nhoradando con risas al viento!\n\nDice un hombre que ha visto a Santiago\nen tropel con doscientos guerreros;\niban todos cubiertos de luces,\ncon guirnaldas de verdes luceros,\ny el caballo que monta Santiago \nera un astro de brillos intensos.\n\nDice el hombre que cuenta la historia\nque en la noche dormida se oyeron\ntremolar plateado de alas\nque en sus ondas llevóse el silencio.\n\n¿Qué sería que el río paróse?\nEran ángeles los caballeros.\n\n¡Niños chicos, cantad en el prado.\nhoradando con risas al viento!\n\nEs la noche de luna menguante.\n¡Escuchad! ¿Qué se siente en el cielo,\nque los grillos refuerzan sus cuerdas\ny dan voces los perros vegueros?\n\n—Madre abuela, ¿cuál es el camino,\nmadre abuela, que yo no lo veo?\n\n—Mira bien y verás una cinta\nde polvillo harinoso y espeso,\nun borrón que parece de plata\no de nácar. ¿Lo ves? \n          \n—Ya lo veo.\n\nMadre abuela. ¿Dónde está Santiago?\n—Por allí marcha con su cortejo\nla cabeza llena de plumajes\ny de perlas muy finas el cuerpo,\ncon la luna rendida a sus plantas,\ncon el sol escondido en el pecho.\n\nEsta noche en la vega se escuchan\nlos relatos brumosos del cuento.\n\n¡Niños chicos, cantad en el prado,\nhoradando con risas al viento!\n\nII\nUna vieja que vive muy pobre\nen la parte más alta del pueblo,\nque posee una rueca inservible,\nuna virgen y dos gatos negros,\nmientras hace la ruda calceta\ncon sus secos y temblones dedos,\nrodeada de buenas comadres\ny de sucios chiquillos traviesos,\nen la paz de la noche tranquila,\ncon las sierras perdidas en negro,\nva contando con ritmos tardíos\nla visión que ella tuvo en sus tiempos.\n\nElla vio en una noche lejana\ncomo ésta, sin ruidos ni vientos,\nel apóstol Santiago en persona,\nperegrino en la tierra del cielo.\n\n—Y comadre, ¿cómo iba vestido?\n—le preguntan dos voces a un tiempo—.\n\n—Con bordón de esmeraldas y perlas\ny una túnica de terciopelo.\n\nCuando hubo pasado la puerta,\nmis palomas sus alas tendieron,\ny mi perro, que estaba dormido,\nfue tras él sus pisadas lamiendo.\nEra dulce el Apóstol divino,\nmás aún que la luna de enero.\nA su paso dejó por la senda\nun olor de azucena y de incienso.\n\n—Y comadre, ¿no le dijo nada?\n—la preguntan dos voces a un tiempo—.\n\n—Al pasar me miró sonriente\ny una estrella dejóme aquí dentro.\n\n—¿Dónde tienes guardada esa estrella?\n—la pregunta un chiquillo travieso—.\n\n—¿Se ha apagado-dijéronle otros—\ncomo cosa de un encantamiento?\n\n—No, hijos míos, la estrella relumbra,\nque en el alma clavada la llevo.\n\n—¿Cómo son las estrellas aquí?\n—Hijo mío, igual que en el cielo.\n\n—Siga, siga la vieja comadre.\n¿Dónde iba el glorioso viajero?\n\n—Se perdió por aquellas montañas\ncon mis blancas palomas y el perro.\nPero llena dejome la casa\nde rosales y de jazmineros,\ny las uvas verdes en la parra\nmaduraron, y mi troje lleno\nencontré la siguiente mañana.\nTodo obra del Apóstol bueno.\n\n—¡Grande suerte que tuvo, comadre!\n—sermonean dos voces a un tiempo—.\n\nLos chiquillos están ya dormidos\ny los campos en hondo silencio.\n\n¡Niños chicos, pensad en Santiago\npor los turbios caminos del sueño!\n\n¡Noche clara, finales de julio!\n¡Ha pasado Santiago en el cielo!\n\nLa tristeza que tiene mi alma,\npor el blanco camino la dejo,\npara ver si la encuentran los niños\ny en el agua la vayan hundiendo,\npara ver si en la noche estrellada\na muy lejos la llevan los vientos.",
         "title": "Santiago"
     },
     {       
@@ -1228,61 +1228,61 @@
     },
     {       
         "book": "Poema del Cante Jondo",
-        "body": "\nBordón\n\nEn la torre\namarilla,\ndobla una campana.\n\nSobre el viento\namarillo,\nse abren las campanadas.\n\nEn la torre\namarilla,\ncesa la campana.\n\nEl viento con el polvo,\nhace proras de plata.",
+        "body": "Bordón\n\nEn la torre\namarilla,\ndobla una campana.\n\nSobre el viento\namarillo,\nse abren las campanadas.\n\nEn la torre\namarilla,\ncesa la campana.\n\nEl viento con el polvo,\nhace proras de plata.",
         "subtitle": "Campana",
         "title": "Gráfico de la Petenera"
     },
     {       
         "book": "Poema del Cante Jondo",
-        "body": "\nCien jinetes enlutados,\n¿dónde irán,\npor el cielo yacente\ndel naranjal?\nNi a Córdoba ni a Sevilla\nllegarán.\nNi a Granada la que suspira\npor el mar.\nEsos caballos soñolientos\nlos llevarán,\nal laberinto de las cruces\ndonde tiembla el cantar.\nCon siete ayes clavados,\n¿dónde irán,\nlos cien jinetes andaluces\ndel naranjal?",
+        "body": "Cien jinetes enlutados,\n¿dónde irán,\npor el cielo yacente\ndel naranjal?\nNi a Córdoba ni a Sevilla\nllegarán.\nNi a Granada la que suspira\npor el mar.\nEsos caballos soñolientos\nlos llevarán,\nal laberinto de las cruces\ndonde tiembla el cantar.\nCon siete ayes clavados,\n¿dónde irán,\nlos cien jinetes andaluces\ndel naranjal?",
         "subtitle": "Camino",
         "title": "Gráfico de la Petenera"
     },
     {       
         "book": "Poema del Cante Jondo",
-        "body": "\nLa guitarra,\nhace llorar a los sueños.\nEl sollozo de las almas\nperdidas,\nse escapa por su boca\nredonda.\nY como la tarántula\nteje una gran estrella\npara cazar suspiros,\nque flotan en su negro\naljibe de madera.",
+        "body": "La guitarra,\nhace llorar a los sueños.\nEl sollozo de las almas\nperdidas,\nse escapa por su boca\nredonda.\nY como la tarántula\nteje una gran estrella\npara cazar suspiros,\nque flotan en su negro\naljibe de madera.",
         "subtitle": "Las seis cuerdas",
         "title": "Gráfico de la Petenera"
     },
     {       
         "book": "Poema del Cante Jondo",
-        "body": "\nEn el huerto de la Petenera\n\nEn la noche del huerto\nseis gitanas\nvestidas de blanco\nbailan.\n\nEn la noche del huerto,\ncoronadas\ncon rosas de papel\ny biznagas.\n\nEn la noche del huerto\nsus dientes de nácar,\nescriben la sombra\nquemada.\n\nY en la noche del huerto\nsus sombras se alargan,\ny llegan hasta el cielo\nmoradas.",
+        "body": "En el huerto de la Petenera\n\nEn la noche del huerto\nseis gitanas\nvestidas de blanco\nbailan.\n\nEn la noche del huerto,\ncoronadas\ncon rosas de papel\ny biznagas.\n\nEn la noche del huerto\nsus dientes de nácar,\nescriben la sombra\nquemada.\n\nY en la noche del huerto\nsus sombras se alargan,\ny llegan hasta el cielo\nmoradas.",
         "subtitle": "Danza",
         "title": "Gráfico de la Petenera"
     },
     {       
         "book": "Poema del Cante Jondo",
-        "body": "\nEn la casa blanca muere\nla perdición de los hombres.\n\nCien jacas caracolean.\nSus jinetes están muertos.\n\nBajo las estremecidas\nestrellas de los velones,\nsu falda de moaré tiembla\nentre sus muslos de cobre.\n\nCien jacas caracolean.\nSus jinetes están muertos.\n\nLargas sombras afiladas\nvienen del turbio horizonte,\ny el bordón de una guitarra\nse rompe.\n\nCien jacas caracolean.\nSus jinetes están muertos.",
+        "body": "En la casa blanca muere\nla perdición de los hombres.\n\nCien jacas caracolean.\nSus jinetes están muertos.\n\nBajo las estremecidas\nestrellas de los velones,\nsu falda de moaré tiembla\nentre sus muslos de cobre.\n\nCien jacas caracolean.\nSus jinetes están muertos.\n\nLargas sombras afiladas\nvienen del turbio horizonte,\ny el bordón de una guitarra\nse rompe.\n\nCien jacas caracolean.\nSus jinetes están muertos.",
         "subtitle": "Muerte de la Petenera",
         "title": "Gráfico de la Petenera"
     },
     {       
         "book": "Poema del Cante Jondo",
-        "body": "\n¡Ay, petenera gitana!\n¡Yayay petenera!\nTu entierro no tuvo niñas\nbuenas.\nNiñas que le dan a Cristo muerto\nsus guedejas,\ny llevan blancas mantillas\nen las ferias.\nTu entierro fue de gente\nsiniestra.\nGente con el corazón\nen la cabeza,\nque te siguió llorando\npor las callejas.\n¡Ay, petenera gitana!\n¡Yayay petenera!",
+        "body": "¡Ay, petenera gitana!\n¡Yayay petenera!\nTu entierro no tuvo niñas\nbuenas.\nNiñas que le dan a Cristo muerto\nsus guedejas,\ny llevan blancas mantillas\nen las ferias.\nTu entierro fue de gente\nsiniestra.\nGente con el corazón\nen la cabeza,\nque te siguió llorando\npor las callejas.\n¡Ay, petenera gitana!\n¡Yayay petenera!",
         "subtitle": "Falseta",
         "title": "Gráfico de la Petenera"
     },
     {       
         "book": "Poema del Cante Jondo",
-        "body": "\nLos cien enamorados\nduermen para siempre\nbajo la tierra seca.\nAndalucía tiene\nlargos caminos rojos.\nCórdoba, olivos verdes\ndonde poner cien cruces,\nque los recuerden.\nLos cien enamorados\nduermen para siempre.",
+        "body": "Los cien enamorados\nduermen para siempre\nbajo la tierra seca.\nAndalucía tiene\nlargos caminos rojos.\nCórdoba, olivos verdes\ndonde poner cien cruces,\nque los recuerden.\nLos cien enamorados\nduermen para siempre.",
         "subtitle": "De Profundis",
         "title": "Gráfico de la Petenera"
     },
     {       
         "book": "Poema del Cante Jondo",
-        "body": "\nEn las torres\namarillas,\ndoblan las campanas.\n\nSobre los vientos\namarillos,\nse abren las campanadas.\n\nPor un camino va\nla muerte, coronada,\nde azahares marchitos.\nCanta y canta\nuna canción\nen su vihuela blanca,\ny canta y canta y canta.\n\nEn las torres amarillas,\ncesan las campanas.\n\nEl viento con el polvo,\nhace proras de plata.",
+        "body": "En las torres\namarillas,\ndoblan las campanas.\n\nSobre los vientos\namarillos,\nse abren las campanadas.\n\nPor un camino va\nla muerte, coronada,\nde azahares marchitos.\nCanta y canta\nuna canción\nen su vihuela blanca,\ny canta y canta y canta.\n\nEn las torres amarillas,\ncesan las campanas.\n\nEl viento con el polvo,\nhace proras de plata.",
         "subtitle": "Clamor",
         "title": "Gráfico de la Petenera"
     },
     {       
         "book": "Poema del Cante Jondo",
-        "body": "\nBajo el naranjo lava\npañales de algodón.\nTiene verdes los ojos\ny violeta la voz.\n\n¡Ay, amor,\nbajo el naranjo en flor!\n\nEl agua de la acequia\niba llena de sol,\nen el olivarito\ncantaba un gorrión.\n\n¡Ay, amor,\nbajo el naranjo en flor!\n\nLuego, cuando la Lola\ngaste todo el jabón,\nvendrán los torerillos.\n\n¡Ay, amor,\nbajo el naranjo en flor!",
+        "body": "Bajo el naranjo lava\npañales de algodón.\nTiene verdes los ojos\ny violeta la voz.\n\n¡Ay, amor,\nbajo el naranjo en flor!\n\nEl agua de la acequia\niba llena de sol,\nen el olivarito\ncantaba un gorrión.\n\n¡Ay, amor,\nbajo el naranjo en flor!\n\nLuego, cuando la Lola\ngaste todo el jabón,\nvendrán los torerillos.\n\n¡Ay, amor,\nbajo el naranjo en flor!",
         "subtitle": "La Lola",
         "title": "Dos muchachas"
     },
     {       
         "book": "Poema del Cante Jondo",
-        "body": "\nAmparo,\n¡qué sola estás en tu casa\nvestida de blanco!\n\n(Ecuador entre el jazmín\ny el nardo.)\n\nOyes los maravillosos\nsurtidores de tu patio,\ny el débil trino amarillo\ndel canario.\n\nPor la tarde ves temblar\nlos cipreses con los pájaros,\nmientras bordas lentamente\nletras sobre el cañamazo.\n\nAmparo,\n¡qué sola estás en tu casa\nvestida de blanco!\nAmparo,\n¡y qué difícil decirte:\nyo te amo!",
+        "body": "Amparo,\n¡qué sola estás en tu casa\nvestida de blanco!\n\n(Ecuador entre el jazmín\ny el nardo.)\n\nOyes los maravillosos\nsurtidores de tu patio,\ny el débil trino amarillo\ndel canario.\n\nPor la tarde ves temblar\nlos cipreses con los pájaros,\nmientras bordas lentamente\nletras sobre el cañamazo.\n\nAmparo,\n¡qué sola estás en tu casa\nvestida de blanco!\nAmparo,\n¡y qué difícil decirte:\nyo te amo!",
         "subtitle": "Amparo",
         "title": "Dos muchachas"
     },
@@ -1300,7 +1300,7 @@
     },
     {       
         "book": "Poema del Cante Jondo",
-        "body": "\nLámparas de cristal\ny espejos verdes.\n\nSobre el tablado oscuro,\nla Parrala sostiene\nuna conversación\ncon la muerte.\nLa llama\nno viene,\ny la vuelve a llamar.\nLas gentes\naspiran los sollozos.\nY en los espejos verdes,\nlargas colas de seda\nse mueven.",
+        "body": "Lámparas de cristal\ny espejos verdes.\n\nSobre el tablado oscuro,\nla Parrala sostiene\nuna conversación\ncon la muerte.\nLa llama\nno viene,\ny la vuelve a llamar.\nLas gentes\naspiran los sollozos.\nY en los espejos verdes,\nlargas colas de seda\nse mueven.",
         "subtitle": "Café cantante",
         "title": "Viñetas flamencas"
     },
@@ -1312,43 +1312,43 @@
     },
     {       
         "book": "Poema del Cante Jondo",
-        "body": "\nLa mano crispada\ncomo una Medusa\nciega el ojo doliente\ndel candil.\n\nAs de bastos.\nTijeras en cruz.\n\nSobre el humo blanco\ndel incienso, tiene\nalgo de topo y\nmariposa indecisa.\n\nAs de bastos.\nTijeras en cruz.\n\nAprieta un corazón\ninvisible, ¿la veis?\nUn corazón\nreflejado en el viento.\n\nAs de bastos.\nTijeras en cruz.",
+        "body": "La mano crispada\ncomo una Medusa\nciega el ojo doliente\ndel candil.\n\nAs de bastos.\nTijeras en cruz.\n\nSobre el humo blanco\ndel incienso, tiene\nalgo de topo y\nmariposa indecisa.\n\nAs de bastos.\nTijeras en cruz.\n\nAprieta un corazón\ninvisible, ¿la veis?\nUn corazón\nreflejado en el viento.\n\nAs de bastos.\nTijeras en cruz.",
         "subtitle": "Conjuro",
         "title": "Viñetas flamencas"
     },
     {       
         "book": "Poema del Cante Jondo",
-        "body": "\nCuando yo me muera\nenterradme con mi guitarra\nbajo la arena.\n\nCuando yo me muera,\nentre los naranjos\ny la hierbabuena.\n\nCuando yo me muera,\nenterradme, si queréis,\nen una veleta.\n\n¡Cuando yo me muera!",
+        "body": "Cuando yo me muera\nenterradme con mi guitarra\nbajo la arena.\n\nCuando yo me muera,\nentre los naranjos\ny la hierbabuena.\n\nCuando yo me muera,\nenterradme, si queréis,\nen una veleta.\n\n¡Cuando yo me muera!",
         "subtitle": "Memento",
         "title": "Viñetas flamencas"
     },
     {       
         "book": "Poema del Cante Jondo",
-        "body": "\nLa muerte\nentra y sale\nde la taberna.\n\nPasan caballos negros\ny gente siniestra\npor los hondos caminos\nde la guitarra.\n\nY hay un olor a sal\ny a sangre de hembra,\nen los nardos febriles\nde la marina.\n\nLa muerte\nentra y sale\ny sale y entra\nla muerte\nde la taberna.",
+        "body": "La muerte\nentra y sale\nde la taberna.\n\nPasan caballos negros\ny gente siniestra\npor los hondos caminos\nde la guitarra.\n\nY hay un olor a sal\ny a sangre de hembra,\nen los nardos febriles\nde la marina.\n\nLa muerte\nentra y sale\ny sale y entra\nla muerte\nde la taberna.",
         "subtitle": "Malagueña",
         "title": "Tres ciudades"
     },
     {       
         "book": "Poema del Cante Jondo",
-        "body": "\nTÓPICO NOCTURNO\n\nEn la casa se defienden\nde las estrellas.\nLa noche se derrumba.\nDentro hay una niña muerta\ncon una rosa encarnada\noculta en la cabellera.\nSeis ruiseñores la lloran\nen la reja.\n\nLas gentes van suspirando\ncon las guitarras abiertas.",
+        "body": "TÓPICO NOCTURNO\n\nEn la casa se defienden\nde las estrellas.\nLa noche se derrumba.\nDentro hay una niña muerta\ncon una rosa encarnada\noculta en la cabellera.\nSeis ruiseñores la lloran\nen la reja.\n\nLas gentes van suspirando\ncon las guitarras abiertas.",
         "subtitle": "Barrio de Córdoba",
         "title": "Tres ciudades"
     },
     {       
         "book": "Poema del Cante Jondo",
-        "body": "\nLa Carmen está bailando\npor las calles de Sevilla.\nTiene blancos los cabellos\ny brillantes las pupilas.\n\n¡Niñas,\ncorred las cortinas!\n\nEn su cabeza se enrosca\nuna serpiente amarilla,\ny va soñando en el baile\ncon galanes de otros días.\n\n¡Niñas,\ncorred las cortinas!\n\nLas calles están desiertas\ny en los fondos se adivinan,\ncorazones andaluces\nbuscando viejas espinas.\n\n¡Niñas,\ncorred las cortinas!",
+        "body": "La Carmen está bailando\npor las calles de Sevilla.\nTiene blancos los cabellos\ny brillantes las pupilas.\n\n¡Niñas,\ncorred las cortinas!\n\nEn su cabeza se enrosca\nuna serpiente amarilla,\ny va soñando en el baile\ncon galanes de otros días.\n\n¡Niñas,\ncorred las cortinas!\n\nLas calles están desiertas\ny en los fondos se adivinan,\ncorazones andaluces\nbuscando viejas espinas.\n\n¡Niñas,\ncorred las cortinas!",
         "subtitle": "Baile",
         "title": "Tres ciudades"
     },
     {       
         "book": "Poema del Cante Jondo",
-        "body": "\nEn la redonda\nencrucijada,\nseis doncellas\nbailan.\nTres de carne\ny tres de plata.\nLos sueños de ayer las buscan\npero las tiene abrazadas,\nun Polifemo de oro.\n¡La guitarra!",
+        "body": "En la redonda\nencrucijada,\nseis doncellas\nbailan.\nTres de carne\ny tres de plata.\nLos sueños de ayer las buscan\npero las tiene abrazadas,\nun Polifemo de oro.\n¡La guitarra!",
         "subtitle": "Adivinanza de la guitarra",
         "title": "Seis caprichos"
     },
     {       
         "book": "Poema del Cante Jondo",
-        "body": "\n¡Oh, qué grave medita\nla llama del candil!\n\nComo un faquir indio\nmira su entraña de oro\ny se eclipsa soñando\natmósferas sin viento.\n\nCigüeña incandescente\npica desde su nido\na las sombras macizas,\ny se asoma temblando\na los ojos redondos\ndel gitanillo muerto.",
+        "body": "¡Oh, qué grave medita\nla llama del candil!\n\nComo un faquir indio\nmira su entraña de oro\ny se eclipsa soñando\natmósferas sin viento.\n\nCigüeña incandescente\npica desde su nido\na las sombras macizas,\ny se asoma temblando\na los ojos redondos\ndel gitanillo muerto.",
         "subtitle": "Candil",
         "title": "Seis caprichos"
     },
@@ -1360,19 +1360,19 @@
     },
     {       
         "book": "Poema del Cante Jondo",
-        "body": "\nLaoconte salvaje.\n\n¡Qué bien estás\nbajo la media luna!\n\nMúltiple pelotari.\n\n¡Qué bien estás\namenazando al viento!\n\nDafne y Atis,\nsaben de tu dolor.\nInexplicable.",
+        "body": "Laoconte salvaje.\n\n¡Qué bien estás\nbajo la media luna!\n\nMúltiple pelotari.\n\n¡Qué bien estás\namenazando al viento!\n\nDafne y Atis,\nsaben de tu dolor.\nInexplicable.",
         "subtitle": "Chumbera",
         "title": "Seis caprichos"
     },
     {       
         "book": "Poema del Cante Jondo",
-        "body": "\nPulpo petrificado.\n\nPones cinchas cenicientas\nal vientre de los montes,\ny muelas formidables\na los desfiladeros.\n\nPulpo petrificado.",
+        "body": "Pulpo petrificado.\n\nPones cinchas cenicientas\nal vientre de los montes,\ny muelas formidables\na los desfiladeros.\n\nPulpo petrificado.",
         "subtitle": "Pita",
         "title": "Seis caprichos"
     },
     {       
         "book": "Poema del Cante Jondo",
-        "body": "\nLa cruz.\n(Punto final\ndel camino)\n\nSe mira en la acequia.\n(Puntos suspensivos.)",
+        "body": "La cruz.\n(Punto final\ndel camino)\n\nSe mira en la acequia.\n(Puntos suspensivos.)",
         "subtitle": "Cruz",
         "title": "Seis caprichos"
     },
@@ -1729,7 +1729,7 @@
     {       
         "book": "Poemas Sueltos",
         "body": "Cielo de Claudio Lorena.\nEl niño triste que nos mira\ny la luna sobre la Residencia.\n\nPepín, ¿por qué no te gusta\nla cerveza?\n\nEn mi vaso la luna redonda,\n¡diminuta!, se ríe y tiembla.\n\nPepín: ahora mismo en Sevilla\nvisten a la Macarena.\n\nPepín, mi corazón tiene\nalamares de luna y de pena.\n\nEl niño triste se ha marchado.\n\nCon mi vaso de cerveza,\nbrindo por ti esta tarde\npintada por Claudio Lorena.\n\n Federico",
-        "title": "Tardecilla del\nJueves Santo"
+        "title": "Tardecilla del Jueves Santo"
     },
     {       
         "book": "Poemas Sueltos",
@@ -1743,7 +1743,7 @@
     },
     {       
         "book": "Poemas Sueltos",
-        "body": "Lento prfume y corazón sin gama,\naire definitivo en lo redondo,\ncorazón fijo, vencedor de nortes,\nquiero dejaros y quedarme solo.\n\nEn la estrella polar decapitada.\n\nEn la brújula rota y sumergida.\n\n",
+        "body": "Lento perfume y corazón sin gama,\naire definitivo en lo redondo,\ncorazón fijo, vencedor de nortes,\nquiero dejaros y quedarme solo.\n\nEn la estrella polar decapitada.\n\nEn la brújula rota y sumergida.\n\n",
         "title": "Canción"
     },
     {       
@@ -1759,7 +1759,7 @@
     {       
         "book": "Poemas Sueltos",
         "body": "I\nEl viento venía rojo\npor el collado encendido\ny se ha puesto verde, verde\npor el río.\nLuego se pondrá violeta,\namarillo y...\nSerá sobre los sembrados\nun arco iris tendido.\n\nII\nViento estancado.\nArriba el sol.\nAbajo \nlas algas temblorosas \nde los álamos.\nY mi corazón\ntemblando.\n\nViento estancado\na las cinco de la tarde.\nSin pájaros.\nIII\nLa brisa\nes ondulada\ncomo los cabellos\nde algunas muchachas.\nComo los marecitos\nde algunas viejas tablas.\nLa brisa\nbrota como el agua\ny se derrama,\n—como un bálsamo blanco—,\npor las cañadas,\ny se desmaya\nal chocar con lo duro \nde la montaña.\n",
-        "title": "Tres historietas\ndel viento"
+        "title": "Tres historietas del viento"
     },
     {       
         "book": "Poemas Sueltos",
@@ -1775,35 +1775,35 @@
         "book": "Poemas Sueltos",
         "body": "Pange lingua gloriosicorporis misterium.\n Cantaban \nlas mujeres por el muro clavado\ncuando te vi, Dios fuerte, vivo en el Sacramento,\npalpitante y desnudo, como un niño que corre\nperseguido por siete novillos capitales.\n\nVivo estabas, Dios mío, dentro del ostensorio.\nPunzado por tu Padre con aguja de lumbre.\nLatiendo como el pobre corazón de la rana\nque los médicos ponen en el frasco de vidrio.\n\nPiedra de soledad donde la hierba gime\ny donde el agua oscura pierde sus tres acentos,\nelevan tu columna de nardo bajo nieve\nsobre el mundo de ruedas y falos que circula.\n\nYo miraba tu forma deliciosa flotando\nen la llaga de aceites y paño de agonía,\ny entornaba mis ojos para dar en el dulce\ntiro al blanco de insomnio sin un pájaro negro.\n\nEs así, Dios anclado, como quiero tenerte.\nPanderito de harina para el recién nacido.\nBrisa y materia juntas en expresión exacta,\npor amor de la carne que no sabe tu nombre.\n\nEs así, forma breve de rumor inefable,\nDios en mantillas, Cristo diminuto y eterno,\nrepetido mil veces, muerto, crucificado\npor la impura palabra del hombre sudoroso.\n\nCantaban las mujeres en la arena sin norte,\ncuando te vi presente sobre tu Sacramento.\nQuinientos serafines de resplandor y tinta\nen la cúpula neutra gustaban tu racimo.\n\n¡Oh Forma sacratísima, vértice de las flores,\ndonde todos los ángulos toman sus luces fijas,\ndonde número y boca construyen un presente\ncuerpo de luz humana con músculos de harina!\n\n¡Oh Forma limitada para expresar concreta\nmuchedumbre de luces y clamor escuchado!\n¡Oh nieve circundada por témpanos de música!\n¡Oh llama crepitante sobre todas las venas!",
         "subtitle": "Exposición",
-        "title": "Oda al Santísimo\nSacramento del altar"
+        "title": "Oda al Santísimo Sacramento del altar"
     },
     {       
         "book": "Poemas Sueltos",
         "body": "Agnus Dei qui tollis pecata\nmundi. Miserere nobis Noche de los tejados y la planta del pie,\nsilbaba por los ojos secos de las palomas.\nAlga y cristal en fuga ponen plata mojada\nlos hombros de cemento de todas las ciudades.\n\nLa gillette descansaba sobre los tocadores\ncon su afán impaciente de cuello seccionado.\nEn la casa del muerto, los niños perseguían\nuna sierpe de arena por el rincón oscuro.\n\nEscribientes dormidos en el piso catorce.\nRamera con los senos de cristal arañado.\nCables y media luna con temblores de insecto.\nBares sin gente. Gritos. Cabezas por el agua.\n\nPara el asesinato del ruiseñor, venían\ntres mil hombres armados de lucientes cuchillos.\nViejas y sacerdotes lloraban resistiendo\nuna lluvia de lenguas y hormigas voladoras.\n\nNoche de rostro blanco. Nula noche sin rostro.\nBajo el sol y la luna. Triste noche del mundo.\nDos mitades opuestas y un hombre que no sabe\ncuándo su mariposa dejará los relojes.\n\nDebajo de las alas del dragón hay un niño.\nCaballitos de cardio por la estrella sin sangre.\nEl unicornio quiere lo que la rosa olvida,\ny el pájaro pretende lo que las aguas vedan.\n\nSólo tu Sacramento de luz en equilibrio\naquietaba la angustia del amor desligado.\nSólo tu Sacramento, manómetro que salva\ncorazones lanzados a quinientos por hora.\n\nPorque tu signo es clave de llanura celeste\ndonde naipe y herida se entrelazan cantando,\ndonde la luz desboca su toro relumbrante\ny se afirma el aroma de la rosa templada.\n\nPorque tu signo expresa la brisa y el gusano.\nPunto de unión y cita del siglo y el minuto.\nOrbe claro de muertos y hormiguero de vivos\ncon el hombre de nieves y el negro de la llama.\n\nMundo, ya tienes meta para tu desamparo.\nPara tu horror perenne de agujero sin fondo.\n¡Oh Cordero cautivo de tres voces iguales!\n¡Sacramento inmutable de amor y disciplina!",
         "subtitle": "Mundo",
-        "title": "Oda al Santísimo\nSacramento del altar"
+        "title": "Oda al Santísimo Sacramento del altar"
     },
     {       
         "book": "Poemas Sueltos",
         "body": "Quia tu es Deus, fortitudo mea,\nquare me sepulisti?\net quare tristis incedo dum\naffligit me inimicus?\n\nHonda luz cegadora de materia crujiente,\nluz oblicua de espadas y mercurio de estrella,\nanunciaban el cuerpo sin amor que llegaba\npor todas las esquinas del abierto domingo.\n\nForma de la belleza sin nostalgias ni sueño.\nRumor de superficies libertadas y locas.\nMedula de presente. Seguridad fingida\nde flotar sobre el agua con el torso de mármol.\n\nCuerpo de la belleza que late y que se escapa.\nUn momento de venas y ternura de ombligo.\nAmor entre paredes y besos limitados,\ncon el miedo seguro de la meta encendida.\n\nBello de luz, oriente de la mano que palpa.\nVendaval y mancebo de rizos y moluscos.\nFuego para la carne sensible que se quema.\nNíquel para el sollozo que busca a Dios volando.\n\nLas nubes proyectaban sombras de cocodrilo\nsobre un cielo incoloro batido por motores.\nAltas esquinas grises y letras encendidas\nseñalaban las tiendas del enemigo Bello.\n\nNo es la mujer desnuda ni el duro adolescente\nni el corazón clavado con besos y lancetas.\nNo es el dueño de todos los caballos del mundo\nni descubrir el anca musical de la luna.\n\nEl encanto secreto del enemigo es otro.\nPermanecer. Quedarse en la luz del instante.\nPermanecer clavados en su belleza triste\ny evitar la inocencia de las aguas nacidas.\n\nQue al balido reciente y a la flor desnortada\ny a los senos sin huellas de la monja dormida\nresponda negro toro de límites maduros\ncon la flor de un momento sin pudor ni mañana.\n\nPara vencer la carne del enemigo bello,\nmágico prodigioso de fuegos y colores,\ndas tu cuerpo celeste y tu sangre divina\nen este Sacramento definido que canto.\n\nDesciendes a la materia para hacerte visible\na los ojos que observan tu vida renovada\ny vences sin espadas, en unidad sencilla,\nal enemigo bello de las mil calidades.\n\n¡Alegrísimo Dios! ¡Alegrísima Forma!\nAleluya reciente de todas las mañanas.\nMisterio facilísimo de razón o de sueño,\nsi es fácil la belleza visible de la rosa.\n\nAleluya, aleluya del zapato y la nieve.\nAlba pura de acantos en la mano incompleta.\nAleluya, aleluya de la norma y punto\nsobre los cuatro vientos sin afán deportivo.\n\nLanza tu Sacramento semillas de alegría\ncontra los perdigones de dolor del Demonio,\ny en el estéril valle de luz y roca pura\nla aguja de la flauta rompe un ángel de vidrio.",
         "subtitle": "Demonio",
-        "title": "Oda al Santísimo\nSacramento del altar"
+        "title": "Oda al Santísimo Sacramento del altar"
     },
     {       
         "book": "Poemas Sueltos",
         "body": "Qué bien os quedasteis\ngalán del cielo,\nque es muy de galanes\nquedarse en cuerpo\nLope de Vega\n(Canto de los cantares)\n\nPor el nombre del Padre, roca luz y fermento,\npor el nombre del Hijo, flor y sangre vertida,\nen el fuego visible del Espíritu Santo,\nEva quema sus dedos teñidos de manzana.\n\nEva gris y rayada con la púrpura rota,\ncubierta con las mieles y el rumor del insecto.\nEva de yugulares y de musgo baboso\nen el primer impulso torpe de los planetas.\n\nLlegaban las higueras con las flores calientes\na destrozar los blancos muros de disciplina.\nEl hacha por el bosque daba normas de viento\na la pura dinamo clavada en su martirio.\n\nHilos y nervios tiemblan en la sección fragante\nde la luna y el vientre que el bisturí descubre.\nEn el diván de raso los amantes aprietan\nlos tibios algodones donde duermen sus huesos.\n\n¡Mirad aquel caballo cómo corre! ¡Miradlo\npor los hombros y el seno de la niña cuajada!\n¡Mirad qué tiernos ayes y qué son movedizo\noprimen la cintura del joven embalado!\n\n¡Venid, venid! Las venas alargarán sus puntas\npara morder la cresta del caimán enlunado,\nmientras la verde sangre de Sodoma reluce\npor la sala de un yerto corazón de aluminio.\n\nEs preciso que el llanto se derrame en la axila,\nque el mano recuerde blanda goma nocturna.\nEs preciso que ritmos de sístole y diástole\nempañen el rubor inhumano del cielo.\n\nTienen en lo más blanco huevecillos de muerte\n(diminutos madroños de arsénico invisible),\nque secan y destruyen el nervio de luz pura\npor donde el alma filtra lección de beso y ala.\n\nEs tu cuerpo, galán, tu boca, tu cintura,\nel gusto de tu sangre por los dientes helados.\nEs tu carne vencida, rota, pisoteada,\nla que vence y relumbra sobre la carne nuestra.\n\nEs el gesto vacío de lo libre sin norte\nque se llena de rosas concretas y finales.\nAdán es luz y espera bajo el arco podrido\nlas dos niñas de lumbre que agitaban sus sienes.\n\n¡Oh Corpus Christi! ¡Oh Corpus de absoluto silencio,\ndonde se quema el cisne y fulgura el leproso!\n¡Oh blanca forma insomne!\nAngeles y ladridos contra el rumor de venas.",
         "subtitle": "Carne",
-        "title": "Oda al Santísimo\nSacramento del altar"
+        "title": "Oda al Santísimo Sacramento del altar"
     },
     {       
         "book": "Poemas Sueltos",
-        "body": "\nDifícil delgadez:\n¿Busca el mundo una blanca,\ntotal, perenne ausencia?\n(Jorge Guillén)\n\nSoledad pensativa\nsobre piedra y rosal, muerte y desvelo\ndonde libre y cautiva,\nfija en su blanco vuelo,\ncanta la luz herida por el hielo.\n\nSoledad con el estilo\nde silencio sin fin y arquitectura,\ndonde la planta en vilo\ndel ave en la espesura\nno consigue clavar tu carne oscura.\n\nEn ti dejo olvidada\nla frenética lluvia de mis venas,\nmi cintura cuajada:\ny rompiendo cadenas,\nrosa débil seré por las arenas.\n\nRosa de mi desnudo\nsobre paños de cal y sordo fuego,\ncuando roto ya el nudo,\nlimpio de luna, y ciego,\ncruce tus finas ondas de sosiego.\n\nEn la curva del río\nel doble cisne su blancura canta.\nHúmeda voz sin frío\nfluye de su garganta,\ny por los juncos rueda y se levanta.\n\nCon su rosa de harina\nniño desnudo mide la ribera,\nmientras el bosque afina\nsu música primera\nen rumor de cristales y madera.\n\nCoros de siemprevivas\ngiran locos pidiendo eternidades.\nSus señas expresivas\nhieren las dos mitades\ndel mapa que rezuma soledades.\n\nEl arpa y su lamento\nprendido en nervios de metal dorado,\ntanto dulce instrumento\nresonante o delgado,\nbuscan ¡oh soledad! tu reino helado.\n\nMientras tú, inaccesible\npara la verde lepra del sonido,\nno hay altura posible\nni labio conocido\npor donde llegue a ti nuestro gemido.\n\n",
+        "body": "Difícil delgadez:\n¿Busca el mundo una blanca,\ntotal, perenne ausencia?\n(Jorge Guillén)\n\nSoledad pensativa\nsobre piedra y rosal, muerte y desvelo\ndonde libre y cautiva,\nfija en su blanco vuelo,\ncanta la luz herida por el hielo.\n\nSoledad con el estilo\nde silencio sin fin y arquitectura,\ndonde la planta en vilo\ndel ave en la espesura\nno consigue clavar tu carne oscura.\n\nEn ti dejo olvidada\nla frenética lluvia de mis venas,\nmi cintura cuajada:\ny rompiendo cadenas,\nrosa débil seré por las arenas.\n\nRosa de mi desnudo\nsobre paños de cal y sordo fuego,\ncuando roto ya el nudo,\nlimpio de luna, y ciego,\ncruce tus finas ondas de sosiego.\n\nEn la curva del río\nel doble cisne su blancura canta.\nHúmeda voz sin frío\nfluye de su garganta,\ny por los juncos rueda y se levanta.\n\nCon su rosa de harina\nniño desnudo mide la ribera,\nmientras el bosque afina\nsu música primera\nen rumor de cristales y madera.\n\nCoros de siemprevivas\ngiran locos pidiendo eternidades.\nSus señas expresivas\nhieren las dos mitades\ndel mapa que rezuma soledades.\n\nEl arpa y su lamento\nprendido en nervios de metal dorado,\ntanto dulce instrumento\nresonante o delgado,\nbuscan ¡oh soledad! tu reino helado.\n\nMientras tú, inaccesible\npara la verde lepra del sonido,\nno hay altura posible\nni labio conocido\npor donde llegue a ti nuestro gemido.\n\n",
         "title": "Soledad"
     },
     {       
         "book": "Poemas Sueltos",
-        "body": "Ciria y Escalante\n\n¡Quién dirá que te vio, y en qué momento!\n¡Qué dolor de penumbra iluminada!\nDos voces suenan: el reloj y el viento,\nmientras flota sin ti la madrugada.\n\nUn delirio de nardo ceniciento\ninvade tu cabeza delicada.\n¡Hombre! ¡Pasión! ¡Dolor de luz! Memento.\nVuelve hecho luna y corazón de nada.\n\nVuelve hecho luna: con mi propia mano\nlanzaré tu manzana sobre el río\nturbio de rojos peces de verano.\n\nY tú, arriba, en lo alto, verde y frío,\n¡olvídate! y olvida al mundo vano,\ndelicado Giocondo, amigo mío.",
-        "subtitle": "En la muerte de José de",
+        "body": "¡Quién dirá que te vio, y en qué momento!\n¡Qué dolor de penumbra iluminada!\nDos voces suenan: el reloj y el viento,\nmientras flota sin ti la madrugada.\n\nUn delirio de nardo ceniciento\ninvade tu cabeza delicada.\n¡Hombre! ¡Pasión! ¡Dolor de luz! Memento.\nVuelve hecho luna y corazón de nada.\n\nVuelve hecho luna: con mi propia mano\nlanzaré tu manzana sobre el río\nturbio de rojos peces de verano.\n\nY tú, arriba, en lo alto, verde y frío,\n¡olvídate! y olvida al mundo vano,\ndelicado Giocondo, amigo mío.",
+        "subtitle": "En la muerte de José de Ciria y Escalante",
         "title": "Sonetos"
     },
     {       
@@ -1820,7 +1820,7 @@
     {       
         "book": "Poemas Sueltos",
         "body": "Tengo miedo a perder la maravilla\nde tus ojos de estatua y el acento\nque de noche me pone en la mejilla\nla solitaria rosa de tu aliento.\n\nTengo pena de ser en esta orilla\ntronco sin ramas; y lo que más siento\nes no tener la flor, pulpa o arcilla,\npara el gusano de mi sufrimiento.\n\nSi tú eres el tesoro oculto mío,\nsi eres mi cruz y mi dolor mojado,\nsi soy el perro de tu señorío,\n\nno me dejes perder lo que he ganado\ny decora las aguas de tu río\ncon hojas de mi otoño enajenado.\n\n",
-        "title": "Tengo miedo a perder\nla maravilla"
+        "title": "Tengo miedo a perder la maravilla"
     },
     {       
         "book": "Poemas Sueltos",
@@ -1835,12 +1835,12 @@
     {       
         "book": "Poemas Sueltos",
         "body": "Amor de mis entrañas, viva muerte,\nen vano espero tu palabra escrita\ny pienso, con la flor que se marchita,\nque si vivo sin mí quiero perderte.\n\nEl aire es inmortal. La piedra inerte\nNi conoce la sombra ni la evita.\nCorazón interior no necesita \nla miel helada que la luna vierte.\n\nPero yo te sufrí. Rasgué mis venas,\ntigre y paloma, sobre tu cintura\nen duelo de mordiscos y azucenas.\n\nLlena, pues, de palabras mi locura\no déjame vivir en mi serena \nnoche del alma para siempre oscura.",
-        "title": "\nEl poeta pide a su amor que le escriba"
+        "title": "El poeta pide a su amor que le escriba"
     },
     {       
         "book": "Poemas Sueltos",
         "body": "Prado mortal de lunas\ny sangre bajo tierra.\nPrado de sangre vieja.\n\nLuz de ayer y mañana.\nCielo mortal de hierba.\nLuz y noche de arena.\n\nMe encontré con la muerte.\nPrado mortal de tierra.\nUna muerte pequeña.\n\nEl perro en el tejado.\nSola mi mano izquierda\natravesaba montes sin fin\nde flores secas.\n\nCatedral de ceniza.\nLuz y noche de arena.\nUna muerte pequeña.\n\nUna muerte y yo un hombre.\nUn hombre solo, y ella\nuna muerte pequeña.\n\nPrado mortal de luna.\nLa nieve gime y tiembla\npor detrás de la puerta.\n\nUn hombre, ¿y qué? Lo dicho.\nUn hombre solo y ella.\nPrado, amor, luz y arena.\n",
-        "title": "\nCanción de la muerte pequeña"
+        "title": "Canción de la muerte pequeña"
     },
     {       
         "book": "Poemas Sueltos",
@@ -1885,7 +1885,7 @@
     {       
         "book": "Poemas Sueltos",
         "body": "Si tú oyeras\na la amarga adelfa sollozar,\n¿qué harías amor mío?\n¡Suspirar!\n\nSi tú vieras que la luz\nte llama cuando se va,\n¿qué harías, amor mío?\nPensaría en el mar.\n\nSi yo te dijera un día,\n—¡te amo!— desde mi olivar,\n¿qué harías, amor mío?\n¡Clavarme un puñal!",
-        "title": "Canción,\nSi tú oyeras"
+        "title": "Canción"
     },
     {       
         "book": "Poemas Sueltos",
@@ -1931,7 +1931,7 @@
     {       
         "book": "Poeta en Nueva York",
         "body": "Yo tenía un hijo que se llamaba Juan.\nYo tenía un hijo.\nSe perdió por los arcos un viernes de todos los muertos.\nLe vi jugar en las últimas escaleras de la misa\ny echaba un cubito de hojalata en el corazón del sacerdote.\nHe golpeado los ataúdes. ¡Mi hijo! ¡Mi hijo! ¡Mi hijo!\nSaqué una pata de gallina por detrás de la luna y luego\ncomprendí que mi niña era un pez\npor donde se alejan las carretas.\nYo tenía una niña.\nYo tenía un pez muerto bajo la ceniza de los incensarios.\nYo tenía un mar. ¿De qué? ¡Dios mío! ¡Un mar!\nSubí a tocar las campanas, pero las frutas tenían gusanos.\ny las cerillas apagadas\nse comían los trigos de la primavera.\nYo vi la transparente cigüeña de alcohol\nmondar las negras cabezas de los soldados agonizantes\ny vi las cabañas de goma\ndonde giraban las copas llenas de lágrimas.\nEn las anémonas del ofertorio te encontraré, ¡corazón mío!,\ncuando el sacerdote levanta la mula y el buey con sus fuertes brazos,\npara espantar los sapos nocturnos que rondan los helados paisajes del cáliz.\nYo tenía un hijo que era un gigante,\npero los muertos son más fuertes y saben devorar pedazos de cielo.\nSi mi niño hubiera sido un oso,\nyo no temería el sigilo de los caimanes,\nni hubiese visto el mar amarrado a los árboles\npara ser fornicado y herido por cl tropel de los regimientos.\n¡Si mi niño hubiera sido un oso!\nMe envolveré sobre esta lona dura para no sentir el frío de los musgos.\nSé muy bien que me darán una manga o la corbata;\npero en el centro de la misa yo romperé el timón y entonces\nvendrá a la piedra la locura de pingüinos y gaviotas \nque harán decir a los que duermen y a los que cantan por las esquinas:\nél tenía un hijo.\n¡Un hijo! ¡Un hijo! ¡Un hijo\nque no era más que suyo, porque era su hijo!\n¡Su hijo! ¡Su hijo! ¡Su hijo!",
-        "subtitle": "Iglesia abandonada\n(Balada de la gran guerra)",
+        "subtitle": "Iglesia abandonada (Balada de la gran guerra)",
         "title": "Los negros"
     },
     {       
@@ -1943,13 +1943,13 @@
     {       
         "book": "Poeta en Nueva York",
         "body": "La mujer gorda venía delante\narrancando las raíces y mojando el pergamino de los tambores;\nla mujer gorda\nque vuelve del revés los pulpos agonizantes.\nLa mujer gorda, enemiga de la luna,\ncorría por las calles y los pisos deshabitados \ny dejaba por los rincones pequeñas calaveras de paloma\ny levantaba las furias de los banquetes de los siglos últimos\ny llamaba al demonio del pan por las colinas del cielo barrido\ny filtraba un ansia de luz en las circulaciones subterráneas.\nSon los cementerios, lo sé, son los cementerios\ny el dolor de las cocinas enterradas bajo la arena,\nson los muertos, los faisanes y las manzanas de otra hora\nlos que nos empujan en la garganta.\n\nLlegaban los rumores de la selva del vómito\ncon las mujeres vacías, con niños de cera caliente,\ncon árboles fermentados y camareros incansables\nque sirven platos de sal bajo las arpas de la saliva.\nSin remedio, hijo mío, ¡vomita! No hay remedio.\nNo es el vómito de los húsares sobre los pechos de la prostituta, \nni el vómito del gato que se tragó una rana por descuido.\nSon los muertos que arañan con sus manos de tierra\nlas puertas de pedernal donde se pudren nublos y postres.\n\nLa mujer gorda venía delante \ncon las gentes de los barcos, de las tabernas y de los jardines.\nEl vómito agitaba delicadamente sus tambores\nentre algunas niñas de sangre\nque pedían protección a la luna.\n¡Ay de mí! ¡Ay de mí! ¡Ay de mi!\nEsta mirada mía fue mía, pero ya no es mía,\nesta mirada que tiembla desnuda por el alcohol\ny despide barcos increíbles\npor las anémonas de los muelles.\nMe defiendo con esta mirada\nque mana de las ondas por donde el alba no se atreve,\nyo, poeta sin brazos, perdido\nentre la multitud que vomita,\nsin caballo efusivo que corte\nlos espesos musgos de mis sienes.\n\nPero la mujer gorda seguía delante\ny la gente buscaba las farmacias\ndonde el amargo trópico se fija.\nSólo cuando izaron la bandera y llegaron los primeros canes \nla ciudad entera se agolpó en las barandillas del embarcadero.",
-        "subtitle": "Paisaje de la multitud que vomita\n(Anochecer en Coney Island)",
+        "subtitle": "Paisaje de la multitud que vomita (Anochecer en Coney Island)",
         "title": "Calles y sueños"
     },
     {       
         "book": "Poeta en Nueva York",
         "body": "Se quedaron solos:\naguardaban la velocidad de las últimas bicicletas.\nSe quedaron solas:\nesperaban la muerte de un niño en el velero japonés.\nSe quedaron solos y solas,\nsoñando con los picos abiertos de los pájaros agonizantes,\ncon el agudo quitasol que pincha \nal sapo recién aplastado,\nbajo un silencio con mil orejas\ny diminutas bocas de agua\nen los desfiladeros que resisten\nel ataque violento de la luna.\nLloraba el niño del velero y se quebraban los corazones\nangustiados por el testigo y la vigilia de todas las cosas\ny porque todavía en el suelo celeste de negras huellas\ngritaban nombres oscuros, salivas y radios de níquel.\nNo importa que el niño calle cuando le clavan el último alfiler,\nno importa la derrota de la brisa en la corola del algodón,\nporque hay un mundo de la muerte con marineros definitivos\nque se asomarán a los arcos y os helarán por detrás de los árboles.\nEs inútil buscar el recodo\ndonde la noche olvida su viaje\ny acechar un silencio que no tenga\ntrajes rotos y cáscaras y llanto,\nporque tan sólo el diminuto banquete de la araña\nbasta para romper el equilibrio de todo el cielo.\nNo hay remedio para el gemido del velero japonés,\nni para estas gentes ocultas que tropiezan con las esquinas.\nEl campo se muerde la cola para unir las raíces en un punto\ny el ovillo busca por la grama su ansia de longitud insatisfecha.\n¡La luna! Los policías. ¡Las sirenas de los transatlánticos!\nFachadas de crin, de humo, anémonas; guantes de goma.\nTodo está roto por la noche,\nabierta de piernas sobre las terrazas.\nTodo está roto por los tibios caños\nde una terrible fuente silenciosa.\n¡Oh gentes! ¡Oh mujercillas! ¡Oh soldados!\nSerá preciso viajar por los ojos de los idiotas,\ncampos libres donde silban las mansas cobras deslumbradas,\npaisajes llenos de sepulcros que producen fresquísimas manzanas,\npara que venga la luz desmedida\nque temen los ricos detrás de sus lupas,\nel olor de un solo cuerpo con la doble vertiente de lis y rata\ny para que se quemen estas gentes que pueden orinar alrededor de un gemido\no en los cristales donde se comprenden las olas nunca repetidas.",
-        "subtitle": "Paisaje de la multitud que orina\n(Nocturno de Battery Place)",
+        "subtitle": "Paisaje de la multitud que orina (Nocturno de Battery Place)",
         "title": "Calles y sueños"
     },
     {       
@@ -1967,7 +1967,7 @@
     {       
         "book": "Poeta en Nueva York",
         "body": "No duerme nadie por el cielo. Nadie, nadie.\nNo duerme nadie.\nLas criaturas de la luna huelen y rondan sus cabañas.\nVendrán las iguanas vivas a morder a los hombres que no sueñan\ny el que huye con el corazón roto encontrará por las esquinas\nal increíble cocodrilo quieto bajo la tierna protesta de los astros.\n\nNo duerme nadie por el mundo. Nadie, nadie.\nNo duerme nadie.\nHay un muerto en el cementerio más lejano\nque se queja tres años\nporque tiene un paisaje seco en la rodilla;\ny el niño que enterraron esta mañana lloraba tanto\nque hubo necesidad de llamar a los perros para que callase.\n\nNo es sueño la vida. ¡Alerta! ¡Alerta! ¡Alerta!\nNos caemos por las escaleras para comer la tierra húmeda\no subimos al filo de la nieve con el coro de las dalias muertas.\nPero no hay olvido, ni sueño:\ncarne viva. Los besos atan las bocas  \nen una maraña de venas recientes\ny al que le duele su dolor le dolerá sin descanso \ny al que teme la muerte la llevará sobre sus hombros.\n\nUn día \nlos caballos vivirán en las tabernas \ny las hormigas furiosas\natacarán los cielos amarillos que se refugian en los ojos de las vacas.\n\nOtro día \nveremos la resurrección de las mariposas disecadas\ny aún andando por un paisaje de esponjas grises y barcos mudos\nveremos brillar nuestro anillo y manar rosas de nuestra lengua.\n¡Alerta! ¡Alerta! ¡Alerta!\nA los que guardan todavía huellas de zarpa y aguacero,\na aquel muchacho que llora porque no sabe la invención del puente\no a aquel muerto que ya no tiene más que la cabeza y un zapato,\nhay que llevarlos al muro donde iguanas y sierpes esperan,\ndonde espera la dentadura del oso,\ndonde espera la mano momificada del niño  \ny la piel del camello se eriza con un violento escalofrío azul.\n\nNo duerme nadie por el cielo. Nadie, nadie.\nNo duerme nadie.\nPero si alguien cierra los ojos,  \n¡azotadlo, hijos míos, azotadlo!\nHaya un panorama de ojos abiertos \ny amargas llagas encendidas.\nNo duerme nadie por el mundo. Nadie, nadie.  \nYa lo he dicho.\nNo duerme nadie.\nPero si alguien tiene por la noche exceso de musgo en las sienes,\nabrid los escotillones para que vea bajo la luna\nlas copas falsas, el veneno y la calavera de los teatros.",
-        "subtitle": "Ciudad sin sueño\n(Nocturno de Brooklyn Bridge)",
+        "subtitle": "Ciudad sin sueño (Nocturno de Brooklyn Bridge)",
         "title": "Calles y sueños"
     },
     {       
@@ -2015,7 +2015,7 @@
     {       
         "book": "Poeta en Nueva York",
         "body": "Las estatuas sufren por los ojos con la oscuridad de los ataúdes,\npero sufren mucho más por el agua que no desemboca.\nQue no desemboca.\n\nEl pueblo corría por las almenas rompiendo las cañas de los pescadores.\n¡Pronto! ¡Los bordes! ¡Deprisa! Y croaban las estrellas tiernas.\n...que no desemboca.\n\nTranquila en mi recuerdo, astro, círculo, meta,\nlloras por las orillas de un ojo de caballo.\n...que no desemboca.\n\nPero nadie en lo oscuro podrá darte distancias,\nsin afilado límite, porvenir de diamante,\n...que no desemboca.\n\nMientras la gente busca silencios de almohada\ntú lates para siempre definida en tu anillo,\n...que no desemboca.\n\nEterna en los finales de unas ondas que aceptan\ncombate de raíces y soledad prevista,\n...que no desemboca.\n\n¡Ya vienen por las rampas! ¡Levántate del agua!\n¡Cada punto de luz te dará una cadena!\n...que no desemboca.\n\nPero el pozo te alarga manecitas de musgo.\ninsospechada ondina de su casta ignorancia,\n...que no desemboca.\n\nNo, que no desemboca. Agua fija en un punto,\nrespirando con todos sus violines sin cuerdas\nen la escala de las heridas y los edificios deshabitados.\n\n¡Agua que no desemboca!",
-        "subtitle": "Niña ahogada en el pozo\n(Granada y Newburg)",
+        "subtitle": "Niña ahogada en el pozo (Granada y Newburg)",
         "title": "En la cabaña de Farmer"
     },
     {       
@@ -2051,7 +2051,7 @@
     {       
         "book": "Poeta en Nueva York",
         "body": "A Fernando Vela\n\nDebajo de las multiplicaciones\nhay una gota de sangre de pato.\nDebajo de las divisiones\nhay una gota de sangre de marinero.  \nDebajo de las sumas, un río de sangre tierna.\nUn río que viene cantando\npor los dormitorios de los arrabales,  \ny es plata, cemento o brisa\nen el alba mentida de New York.  \nExisten las montañas, lo sé.\nY los anteojos para la sabiduría, \nLo sé.  Pero yo no he venido a ver el cielo. \nYo he venido para ver la turbia sangre,\nla sangre que lleva las máquinas a las cataratas\ny el espíritu a la lengua de la cobra.\nTodos los días se matan en New York\ncuatro millones de patos,\ncinco millones de cerdos,\ndos mil palomas para el gusto de los agonizantes,\nun millón de vacas,\nun millón de corderos\ny dos millones de gallos\nque dejan los cielos hechos añicos.  \nMás vale sollozar afilando la navaja\no asesinar a los perros\nen las alucinantes cacerías\nque resistir en la madrugada\nlos interminables trenes de leche, \nlos interminables trenes de sangre,\ny los trenes de rosas maniatadas\npor los comerciantes de perfumes.\nLos patos y las palomas\ny los cerdos y los corderos\nponen sus gotas de sangre\ndebajo de las multiplicaciones;\ny los terribles alaridos de las vacas estrujadas\nllenan de dolor el valle\ndonde el Hudson se emborracha con aceite.\nYo denuncio a toda la gente\nque ignora la otra mitad,\nla mitad irredimible\nque levanta sus montes de cemento  \ndonde laten los corazones\nde los animalitos que se olvidan  \ny donde caeremos todos\nen la última fiesta de los taladros.  \nOs escupo en la cara.\nLa otra mitad me escucha\ndevorando, orinando, volando en su pureza\ncomo los niños en las porterías\nque llevan frágiles palitos\na los huecos donde se oxidan\nlas antenas de los insectos.\nNo es el infierno, es la calle.\nNo es la muerte, es la tienda de frutas.  \nHay un mundo de ríos quebrados\ny distancias inasibles\nen la patita de ese gato\nquebrada por el automóvil,\ny yo oigo el canto de la lombriz  \nen el corazón de muchas niñas.\nÓxido, fermento, tierra estremecida. \nTierra tú mismo que nadas\npor los números de la oficina.\n¿Qué voy a hacer?, ¿ordenar los paisajes?  \n¿Ordenar los amores que luego son fotografías,\nque luego son pedazos de madera\ny bocanadas de sangre?\nSan Ignacio de Loyola\nasesinó un pequeño conejo\ny todavía sus labios gimen\npor las torres de las iglesias.\nNo, no, no, no; yo denuncio.\nYo denuncio la conjura\nde estas desiertas oficinas\nque no radian las agonías,\nque borran los programas de la selva,  \ny me ofrezco a ser comido\npor las vacas estrujadas\ncuando sus gritos llenan el valle  \ndonde el Hudson se emborracha con aceite.",
-        "subtitle": "New York\n(Oficina y denuncia)",
+        "subtitle": "New York (Oficina y denuncia)",
         "title": "Vuelta a la ciudad"
     },
     {       
@@ -2195,12 +2195,12 @@
     {       
         "book": "Romancero Gitano",
         "body": "Se ven desde las barandas,\npor el monte, monte, monte,\nmulos y sombras de mulos\ncargados de girasoles.\n\nSus ojos en las umbrías\nse empañan de inmensa noche.\nEn los recodos del aire,\ncruje la aurora salobre.\n\nUn cielo de mulos blancos\ncierra sus ojos de azogue\ndando a la quieta penumbra\nun final de corazones.\nY el agua se pone fría\npara que nadie la toque.\nAgua loca y descubierta\npor el monte, monte, monte.\n\nSan Miguel lleno de encajes\nen la alcoba de su torre,\nenseña sus bellos muslos,\nceñidos por los faroles.\n\nArcángel domesticado\nen el gesto de las doce,\nfinge una cólera dulce\nde plumas y ruiseñores.\nSan Miguel canta en los vidrios;\nEfebo de tres mil noches,\nfragante de agua colonia\ny lejano de las flores.\n\nEl mar baila por la playa,\nun poema de balcones.\nLas orillas de la luna\npierden juncos, ganan voces.\nVienen manolas comiendo\nsemillas de girasoles,\nlos culos grandes y ocultos\ncomo planetas de cobre.\nVienen altos caballeros\ny damas de triste porte,\nmorenas por la nostalgia\nde un ayer de ruiseñores.\nY el obispo de Manila,\nciego de azafrán y pobre,\ndice misa con dos filos\npara mujeres y hombres.\n\nSan Miguel se estaba quieto\nen la alcoba de su torre,\ncon las enaguas cuajadas\nde espejitos y entredoses.\n\nSan Miguel, rey de los globos\ny de los números nones,\nen el primor berberisco\nde gritos y miradores.",
-        "title": "San Miguel\n"
+        "title": "San Miguel"
     },
     {       
         "book": "Romancero Gitano",
         "body": "I\nCoches cerrados llegaban\na las orillas de juncos\ndonde las ondas alisan\nromano torso desnudo.\nCoches, que el Guadalquivir\ntiende en su cristal maduro,\nentre láminas de flores\ny resonancias de nublos.\nLos niños tejen y cantan\nel desengaño del mundo,\ncerca de los viejos coches\nperdidos en el nocturno.\nPero Córdoba no tiembla\nbajo el misterio confuso,\npues si la sombra levanta\nla arquitectura del humo,\nun pie de mármol afirma\nsu casto fulgor enjuto.\nPétalos de lata débil\nrecaman los grises puros\nde la brisa, desplegada\nsobre los arcos de triunfo.\nY mientras el puente sopla\ndiez rumores de Neptuno,\nvendedores de tabaco\nhuyen por el roto muro.\n\nII\nUn solo pez en el agua\nque a las dos Córdobas junta:\nBlanda Córdoba de juncos.\nCórdoba de arquitectura.\nNiños de cara impasible\nen la orilla se desnudan,\naprendices de Tobías\ny Merlines de cintura,\npara fastidiar al pez\nen irónica pregunta\nsi quiere flores de vino\no saltos de media luna.\nPero el pez, que dora el agua\ny los mármoles enluta,\nles da lección y equilibrio\nde solitaria columna.\nEl Arcángel aljamiado\nde lentejuelas oscuras,\nen el mitin de las ondas\nbuscaba rumor y cuna.\n\nUn solo pez en el agua.\nDos Córdobas de hermosura.\nCórdoba quebrada en chorros.\nCeleste Córdoba enjuta.",
-        "title": "San Rafael\n"
+        "title": "San Rafael"
     },
     {       
         "book": "Romancero Gitano",
@@ -2210,7 +2210,7 @@
     {       
         "book": "Romancero Gitano",
         "body": "Antonio Torres Heredia,\nhijo y nieto de Camborios,\ncon una vara de mimbre\nva a Sevilla a ver los toros.\nMoreno de verde luna\nanda despacio y garboso.\nSus empavonados bucles\nle brillan entre los ojos.\nA la mitad del camino\ncortó limones redondos,\ny los fue tirando al agua\nhasta que la puso de oro.\nY a la mitad del camino,\nbajo las ramas de un olmo,\nguardia civil caminera\nlo llevó codo con codo.\n\nEl día se va despacio,\nla tarde colgada a un hombro,\ndando una larga torera\nsobre el mar y los arroyos.\nLas aceitunas aguardan\nla noche de Capricornio,\ny una corta brisa, ecuestre,\nsalta los montes de plomo.\nAntonio Torres Heredia,\nhijo y nieto de Camborios,\nviene sin vara de mimbre\nentre los cinco tricornios.\n\nAntonio, ¿quién eres tú?\nSi te llamaras Camborio,\nhubieras hecho una fuente\nde sangre con cinco chorros.\nNi tú eres hijo de nadie,\nni legítimo Camborio.\n¡Se acabaron los gitanos\nque iban por el monte solos!\nEstán los viejos cuchillos\ntiritando bajo el polvo.\n\nA las nueve de la noche\nlo llevan al calabozo,\nmientras los guardias civiles\nbeben limonada todos.\nY a las nueve de la noche\nle cierran el calabozo,\nmientras el cielo reluce\ncomo la grupa de un potro.",
-        "title": "Prendimiento de\nAntoñito el Camborio en el camino\n"
+        "title": "Prendimiento de Antoñito el Camborio en el camino"
     },
     {       
         "book": "Romancero Gitano",
@@ -2260,7 +2260,7 @@
     {       
         "book": "Sonetos del Amor Oscuro",
         "body": "¡Esa guirnalda! ¡Pronto! ¡Que me muero!\n¡Teje deprisa! ¡Cantal ¡Gime! ¡Canta!\nQue la sombra me enturbia la garganta\ny otra vez viene y mil la luz de enero.\n\nEntre lo que me quieres y te quiero,\naire de estrellas y temblor de planta\nespesura de anémonas levanta\ncon oscuro gemir un año entero.\n\nGoza el fresco paisaje de mi herida,\nquiebra juncos y arroyos delicados,\nbebe en muslo de miel sangre vertida.\n\nPronto ¡prontol! Que unidos, enlazados,\nboca rota de amor y alma mordida,\nel tiempo nos encuentre destrozados.",
-        "title": "Soneto de la guirnalda\nde las rosas"
+        "title": "Soneto de la guirnalda de las rosas"
     },
     {       
         "book": "Sonetos del Amor Oscuro",
@@ -2270,7 +2270,7 @@
     {       
         "book": "Sonetos del Amor Oscuro",
         "body": "Amor de mis entrañas, viva muerte,\nen vano espero tu palabra escrita\ny pienso, con la flor que se marchita,\nque si vivo sin mí quiero perderte.\n\nEl aire es inmortal, la piedra inerte\nni conoce la sombra ni la evita.\nCorazón interior no necesita\nla miel helada que la luna vierte.\n\nPero yo te sufrí, rasgué mis venas,\ntigre y paloma, sobre tu cintura\nen duelo de mordiscos y azucenas.\n\nLlena, pues, de palabras mi locura\no déjame vivir en mi serena noche\ndel alma para siempre oscura.",
-        "title": "El poeta pide a su amor\nque le escriba"
+        "title": "El poeta pide a su amor que le escriba"
     },
     {       
         "book": "Sonetos del Amor Oscuro",
@@ -2290,14 +2290,11 @@
     {       
         "book": "Sonetos del Amor Oscuro",
         "body": "¿Te gustó la ciudad que gota a gota\nlabró el agua en el centro de los pinos?\n¿Viste sueños y rostros y caminos\ny muros de dolor que el aire azota?\n\n¿Viste la grieta azul de luna rota\nque el Júcar moja de cristal y trinos?\n¿Han besado tus dedos los espinos \nque coronan de amor piedra remota?\n\nTe acordaste de mí cuando subías \nal silencio que sufre la serpiente,\nprisionera de grillos y de umbrías?\n\n¿No viste por el aire transparente\nuna dalia de penas y alegrías \nque te mandó mi corazón caliente?",
-        "title": "El poeta pregunta a su\namor por la ciudad encantada de Cuenca"
+        "title": "El poeta pregunta a su amor por la ciudad encantada de Cuenca"
     },
     {       
         "book": "Sonetos del Amor Oscuro",
         "body": "Tú nunca entenderás lo que te quiero\nporque duermes en mí y estás dormido.\nYo te oculto llorando, perseguido\npor una voz de penetrante acero.\n\nNorma que agita igual carne y lucero\ntraspasa ya mi pecho dolorido\ny las turbias palabras han mordido\nlas alas de tu espíritu severo.\n\nGrupo de gente salta en los jardines\nesperando tu cuerpo y mi agonía\nen caballos de luz y verdes crines.\n\nPero sigue durmiendo, vida mía.\nOye mi sangre rota en los violines.\n¡Mira que nos acechan todavía!",
-        "title": "El amor duerme en\nel pecho del poeta"
+        "title": "El amor duerme en el pecho del poeta"
     }
-
-
-
 ]
