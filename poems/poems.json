@@ -2,7 +2,7 @@
     {       
         "book": "Canciones",
         "body": "Cantan las siete\ndoncellas.\n\n(Sobre el cielo un arco\nde ejemplos de ocaso.)\n\nAlma con siete voces\nlas siete doncellas.\n\n(En el aire blanco \nsiete largos pájaros.)\n\nMueren las siete\ndoncellas.\n\n(¿Por qué no han sido nueve?\n¿Por qué no han sido veinte?)\n\nEl río las trae,\nnadie puede verlas.",
-        "subtitle": "Canción de las siete doncellas \n(Teoría del arco iris)",
+        "subtitle": "Canción de las siete doncellas (Teoría del arco iris)",
         "title": "Teorías"
     },
     {       
@@ -49,20 +49,20 @@
     },
     {       
         "book": "Canciones",
-        "body": "Friso\nTierra\n\nLas niñas de la brisa\nvan con sus largas colas.\n\nCielo\n\nLos mancebos del aire\nsaltan sobre la luna.",
-        "subtitle": "A Gustavo Durán.\nFriso\nTierra\n\nLas niñas de la brisa\nvan con sus largas colas.\n\nCielo\n\nLos mancebos del aire\nsaltan sobre la luna.",
+        "body": "Tierra\n\nLas niñas de la brisa\nvan con sus largas colas.\n\nCielo\n\nLos mancebos del aire\nsaltan sobre la luna.",
+        "subtitle": "Friso",
         "title": "Teorías"
     },
     {       
         "book": "Canciones",
         "body": "Cazador\n¡Alto pinar!\nCuatro palomas por el aire van.\n\nCuatro palomas\nvuelan y tornan.\nLlevan heridas\nsus cuatro sombras.\n\n¡Bajo pinar!\nCuatro palomas en la tierra están.",
-        "subtitle": "Cazador\n¡Alto pinar!\nCuatro palomas por el aire van.\n\nCuatro palomas\nvuelan y tornan.\nLlevan heridas\nsus cuatro sombras.\n\n¡Bajo pinar!\nCuatro palomas en la tierra están.",
+        "subtitle": "Cazador",
         "title": "Teorías"
     },
     {       
         "book": "Canciones",
-        "body": "Unicornios y cíclopes.\nCuernos de oro\ny ojos verdes.\nSobre el acantilado,\nen tropel gigantesco,\nilustran el azogue\nsin cristal, del mar.\n\nUnicornios y cíclopes.\n\nUna pupila\ny una potencia.\n¿Quién duda la eficacia\nterrible de esos cuernos?\n¡Oculta tus blancos,\nNaturaleza!",
-        "subtitle": "Fábula",
+        "body": "Cuernos de oro\ny ojos verdes.\nSobre el acantilado,\nen tropel gigantesco,\nilustran el azogue\nsin cristal, del mar.\n\nUnicornios y cíclopes.\n\nUna pupila\ny una potencia.\n¿Quién duda la eficacia\nterrible de esos cuernos?\n¡Oculta tus blancos,\nNaturaleza!",
+        "subtitle": "Fábula (Unicornios y cíclopes)",
         "title": "Teorías"
     },
     {       
@@ -205,20 +205,38 @@
     },
     {       
         "book": "Canciones",
-        "body": "La canción,\nque nunca diré,\nse ha dormido en mis labios.\nLa canción,\nque nunca diré.\n\nSobre las madreselvas\nhabía una luciérnaga,\ny la luna picaba\ncon un rayo en el agua.\n\nEntonces yo soñé,\nla canción,\nque nunca diré.\n\nCanción llena de labios\ny de cauces lejanos.\n\nCanción llena de horas\nperdidas en la sombra.\n\nCanción de estrella viva\nsobre un perpetuo día.\n*****Baco",
+        "body": "La canción,\nque nunca diré,\nse ha dormido en mis labios.\nLa canción,\nque nunca diré.\n\nSobre las madreselvas\nhabía una luciérnaga,\ny la luna picaba\ncon un rayo en el agua.\n\nEntonces yo soñé,\nla canción,\nque nunca diré.\n\nCanción llena de labios\ny de cauces lejanos.\n\nCanción llena de horas\nperdidas en la sombra.\n\nCanción de estrella viva\nsobre un perpetuo día.",
         "subtitle": "Verlaine",
         "title": "Tres retratos con sombras"
     },
     {       
         "book": "Canciones",
-        "body": "En el blanco infinito,\nnieve, nardo y salina,\nperdió su fantasía.\n\nEl color blanco, anda,\nsobre una muda alfombra\nde plumas de paloma.\n\nSin ojos ni ademán\ninmóvil sufre un sueño.\nPero tiembla por dentro.\n\nEn el blanco infinito,\n¡que pura y larga herida\ndejó su fantasía!\n\nEn el blanco infinito.\nNieve. Nardo. Salina.\n\n*****",
-        "subtitle": "Juan Ramón Jiménez",
+        "body": "Verde rumor intacto.\nLa higuera me tiende sus brazos.\n\nComo una pantera, su sombra,\nacecha mi lírica sombra.\n\nLa luna cuenta los perros.\nSe equivoca y empieza de nuevo.\n\nAyer, mañana. negro y verde,\nrondas mi cerco de laureles.\n\n¿Quién te querría como yo,\nsi me cambiaras el corazón?\n\n... Y la higuera me grita y avanza\nterrible y multiplicada.",
+        "subtitle": "Baco",
         "title": "Tres retratos con sombras"
     },
     {       
         "book": "Canciones",
-        "body": "Mi sombra va silenciosa\npor el agua de la acequia.\n\nPor mi sombra están las ranas\nprivadas de las estrellas.\n\nLa sombra manda a mi cuerpo\nreflejos de cosas quietas.\n\nMi sombra va como inmenso\ncínife color violeta.\n\nCien grillos quieren dorar\nla luz de la cañavera.\n\nUna luz nace en mi pecho,\nreflejado, de la acequia.\n*****",
+        "body": "La joven muerta\nen la concha de la cama,\ndesnuda de flor y brisa\nsurgía en la luz perenne.\n\nQuedaba el mundo,\nlirio de algodón y sombra,\nasomado a los cristales,\nviendo el tránsito infinito.\n\nLa joven muerta,\nsurcaba el amor por dentro.\nEntre la espuma de las sábanas\nse perdía su cabellera.",
+        "subtitle": "Venus",
+        "title": "Tres retratos con sombras"
+    },
+    {       
+        "book": "Canciones",
+        "body": "En el blanco infinito,\nnieve, nardo y salina,\nperdió su fantasía.\n\nEl color blanco, anda,\nsobre una muda alfombra\nde plumas de paloma.\n\nSin ojos ni ademán\ninmóvil sufre un sueño.\nPero tiembla por dentro.\n\nEn el blanco infinito,\n¡que pura y larga herida\ndejó su fantasía!\n\nEn el blanco infinito.\nNieve. Nardo. Salina.",
+        "subtitle": "Venus",
+        "title": "Tres retratos con sombras"
+    },
+    {       
+        "book": "Canciones",
+        "body": "Mi sombra va silenciosa\npor el agua de la acequia.\n\nPor mi sombra están las ranas\nprivadas de las estrellas.\n\nLa sombra manda a mi cuerpo\nreflejos de cosas quietas.\n\nMi sombra va como inmenso\ncínife color violeta.\n\nCien grillos quieren dorar\nla luz de la cañavera.\n\nUna luz nace en mi pecho,\nreflejado, de la acequia.",
         "subtitle": "Debussy",
+        "title": "Tres retratos con sombras"
+    },
+    {       
+        "book": "Canciones",
+        "body": "Niño.\n¡Que\nte vas a caer al río!\n\nEn lo hondo hay una rosa\ny en la rosa hay otro río.\n\n¡Mira aquel pájaro! ¡Mira\naquel pájaro amarillo!\n\nSe me han caído los ojos\ndentro del agua.\n\n¡Dios mío!\n¡Que se resbala! ¡Muchacho!\n\n... y en la rosa estoy yo mismo.\n\nCuando se perdió en el agua\ncomprendí. Pero no explico.",
+        "subtitle": "Narciso",
         "title": "Tres retratos con sombras"
     },
     {       
@@ -933,7 +951,14 @@
     },
     {       
         "book": "Libro de Poemas",
-        "body": "El silencio redondo de la noche\nsobre el pentagrama\ndel infinito.\n\nYo me salgo desnudo a la calle,\nmaduro de versos\nperdidos.\nLo negro, acribillado\npor el canto del grillo,\ntiene ese fuego fatuo,\nmuerto,\ndel sonido.\nEsa luz musical\nque percibe\nel espíritu.\n\nLos esqueletos de mil mariposas\nduermen en mi recinto.\n\nHay una juventud de brisas locas\nsobre el río.\n*****El camino\n\nNo conseguirá nunca\ntu lanza\nherir el horizonte.\nLa montaña\nes un escudo\nque lo guarda.\n\nNo sueñes con la sangre de la luna\ny descansa.\nPero deja, camino,\nque mis plantas\nexploren la caricia\nde la rociada.\n\n¡Quiromántico enorme!\n¿Conocerás las almas\npor el débil tatuaje\nque olvidan en tu espalda?\nSi eres Flammarión\nde las pisadas,\n¡cómo debes amar\na los asnos que pasan\nacariciando con ternura humilde\ntu carne desgarrada!\nEllos solos meditan dónde puede\nllegar tu enorme lanza.\nEllos solos, que son\nlos Budas de la Fauna,\ncuando viejos y heridos deletrean\ntu libro sin palabras.\n\n¡Cuánta melancolía\ntienes entre las casas\ndel poblado!\n¡Qué clara\nes tu virtud! Aguantas\ncuatro carros dormidos,\ndos acacias,\ny un pozo del antaño\nque no tiene agua.\n\nDando vueltas al mundo,\nno encontrarás posada.\nNo tendrás camposanto\nni mortaja,\nni el aire del amor renovará\ntu sustancia.\n\nPero sal de los campos\ny en la negra distancia\nde lo eterno, si tallas\nla sombra con tu lima\nblanca, ¡oh camino!\n¡pasarás por el puente\nde Santa Clara!",
+        "body": "El silencio redondo de la noche\nsobre el pentagrama\ndel infinito.\n\nYo me salgo desnudo a la calle,\nmaduro de versos\nperdidos.\nLo negro, acribillado\npor el canto del grillo,\ntiene ese fuego fatuo,\nmuerto,\ndel sonido.\nEsa luz musical\nque percibe\nel espíritu.\n\nLos esqueletos de mil mariposas\nduermen en mi recinto.\n\nHay una juventud de brisas locas\nsobre el río.",
+        "subtitle": "1920",
+        "title": "Hora de estrellas"
+    },
+    {       
+        "book": "Libro de Poemas",
+        "body": "El camino\n\nNo conseguirá nunca\ntu lanza\nherir el horizonte.\nLa montaña\nes un escudo\nque lo guarda.\n\nNo sueñes con la sangre de la luna\ny descansa.\nPero deja, camino,\nque mis plantas\nexploren la caricia\nde la rociada.\n\n¡Quiromántico enorme!\n¿Conocerás las almas\npor el débil tatuaje\nque olvidan en tu espalda?\nSi eres Flammarión\nde las pisadas,\n¡cómo debes amar\na los asnos que pasan\nacariciando con ternura humilde\ntu carne desgarrada!\nEllos solos meditan dónde puede\nllegar tu enorme lanza.\nEllos solos, que son\nlos Budas de la Fauna,\ncuando viejos y heridos deletrean\ntu libro sin palabras.\n\n¡Cuánta melancolía\ntienes entre las casas\ndel poblado!\n¡Qué clara\nes tu virtud! Aguantas\ncuatro carros dormidos,\ndos acacias,\ny un pozo del antaño\nque no tiene agua.\n\nDando vueltas al mundo,\nno encontrarás posada.\nNo tendrás camposanto\nni mortaja,\nni el aire del amor renovará\ntu sustancia.\n\nPero sal de los campos\ny en la negra distancia\nde lo eterno, si tallas\nla sombra con tu lima\nblanca, ¡oh camino!\n¡pasarás por el puente\nde Santa Clara!",
+        "subtitle": "El camino",
         "title": "Hora de estrellas"
     },
     {       
@@ -2234,12 +2259,44 @@
     },
     {       
         "book": "Romancero Gitano",
-        "body": "I\nPanorama de mérida\n\nPor la calle brinca y corre\ncaballo de larga cola,\nmientras juegan o dormitan\nviejos soldados de Roma.\nMedio monte de Minervas\nabre sus brazos sin hojas.\nAgua en vilo redoraba\nlas aristas de las rocas.\nNoche de torsos yacentes\ny estrellas de nariz rota\naguarda grietas del alba\npara derrumbarse toda.\nDe cuando en cuando sonaban\nblasfemias de cresta roja.\nAl gemir, la santa niña\nquiebra el cristal de las copas.\nLa rueda afila cuchillos\ny garfios de aguda comba:\nBrama el toro de los yunques,\ny Mérida se corona\nde nardos casi despiertos\ny tallos de zarzamora.\n\nII \nEl martirio\n\nFlora desnuda se sube\npor escalerillas de agua.\nEl Cónsul pide bandeja\npara los senos de Olalla.\nUn chorro de venas verdes\nle brota de la garganta.\nSu sexo tiembla enredado\ncomo un pájaro en las zarzas.\nPor el suelo, ya sin norma,\nbrincan sus manos cortadas\nque aún pueden cruzarse en tenue\noración decapitada.\nPor los rojos agujeros\ndonde sus pechos estaban\nse ven cielos diminutos\ny arroyos de leche blanca.\nMil arbolillos de sangre\nle cubren toda la espalda\ny oponen húmedos troncos\nal bisturí de las llamas.\nCenturiones amarillos\nde carne gris, desvelada,\nllegan al cielo sonando\nsus armaduras de plata.\nY mientras vibra confusa\npasión de crines y espadas,\nel Cónsul porta en bandeja\nsenos ahumados de Olalla.\n\nIII\nInfierno y gloria\n\nNieve ondulada reposa.\nOlalla pende del árbol.\nSu desnudo de carbón\ntizna los aires helados.\nNoche tirante reluce.\nOlalla muerta en el árbol.\nTinteros de las ciudades\nvuelcan la tinta despacio.\nNegros maniquíes de sastre\ncubren la nieve del campo\nen largas filas que gimen\nsu silencio mutilado.\nNieve partida comienza.\nOlalla blanca en el árbol.\nEscuadras de níquel juntan\nlos picos en su costado.\n\nUna custodia reluce\nsobre los cielos quemados\nentre gargantas de arroyo\ny ruiseñores en ramos.\n¡Saltan vidrios de colores!\nOlalla blanca en lo blanco.\nÁngeles y serafines\ndicen: Santo, Santo, Santo.",
+        "body": "Por la calle brinca y corre\ncaballo de larga cola,\nmientras juegan o dormitan\nviejos soldados de Roma.\nMedio monte de Minervas\nabre sus brazos sin hojas.\nAgua en vilo redoraba\nlas aristas de las rocas.\nNoche de torsos yacentes\ny estrellas de nariz rota\naguarda grietas del alba\npara derrumbarse toda.\nDe cuando en cuando sonaban\nblasfemias de cresta roja.\nAl gemir, la santa niña\nquiebra el cristal de las copas.\nLa rueda afila cuchillos\ny garfios de aguda comba:\nBrama el toro de los yunques,\ny Mérida se corona\nde nardos casi despiertos\ny tallos de zarzamora.",
+        "subtitle": "I. Panorama de Mérida",
         "title": "Martirio de Santa Olalla"
     },
     {       
         "book": "Romancero Gitano",
-        "body": "Por una vereda\nvenía Don Pedro.\n¡Ay cómo lloraba\nel caballero!\nMontado en un ágil\ncaballo sin freno,\nvenía en la busca\ndel pan y del beso.\nTodas las ventanas\npreguntan al viento,\npor el llanto oscuro\ndel caballero.\n*****\nPrimera laguna\n\nBajo el agua\nsiguen las palabras.\nSobre el agua\nuna luna redonda\nse baña,\ndando envidia a la otra\n¡tan alta!\nEn la orilla,\nun niño,\nve las lunas y dice:\n¡Noche; toca los platillos!\n*****\nSigue\n\nA una ciudad lejana\nha llegado Don Pedro.\nUna ciudad de oro\nentre un bosque de cedros.\n¿Es Belén? Por el aire\nyerbaluisa y romero.\nBrillan las azoteas\ny las nubes. Don Pedro\npasa por arcos rotos.\nDos mujeres y un viejo\ncon velones de plata\nle salen al encuentro.\nLos chopos dicen: No.\nY el ruiseñor: Veremos.\n*****\nSegunda laguna\n\nBajo el agua\nsiguen las palabras.\nSobre el peinado del agua\nun círculo de pájaros y llamas.\nY por los cañaverales,\ntestigos que conocen lo que falta.\nSueño concreto y sin norte\nde madera de guitarra.\n*****\nSigue\n\nPor el camino llano\ndos mujeres y un viejo\ncon velones de plata\nvan al cementerio.\nEntre los azafranes\nhan encontrado muerto\nel sombrío caballo\nde Don Pedro.\nVoz secreta de tarde\nbalaba por el cielo.\nUnicornio de ausencia\nrompe en cristal su cuerno.\nLa gran ciudad lejana\nestá ardiendo\ny un hombre va llorando\ntierras adentro.\nAl Norte hay una estrella.\nAl Sur un marinero.\n*****\nÚltima laguna\n\nBajo el agua\nestán las palabras.\nLimo de voces perdidas.\nSobre la flor enfriada,\nestá Don Pedro olvidado,\n¡ay!, jugando con las ranas.",
+        "body": "Flora desnuda se sube\npor escalerillas de agua.\nEl Cónsul pide bandeja\npara los senos de Olalla.\nUn chorro de venas verdes\nle brota de la garganta.\nSu sexo tiembla enredado\ncomo un pájaro en las zarzas.\nPor el suelo, ya sin norma,\nbrincan sus manos cortadas\nque aún pueden cruzarse en tenue\noración decapitada.\nPor los rojos agujeros\ndonde sus pechos estaban\nse ven cielos diminutos\ny arroyos de leche blanca.\nMil arbolillos de sangre\nle cubren toda la espalda\ny oponen húmedos troncos\nal bisturí de las llamas.\nCenturiones amarillos\nde carne gris, desvelada,\nllegan al cielo sonando\nsus armaduras de plata.\nY mientras vibra confusa\npasión de crines y espadas,\nel Cónsul porta en bandeja\nsenos ahumados de Olalla.",
+        "subtitle": "II. El martirio",
+        "title": "Martirio de Santa Olalla"
+    },
+    {       
+        "book": "Romancero Gitano",
+        "body": "Nieve ondulada reposa.\nOlalla pende del árbol.\nSu desnudo de carbón\ntizna los aires helados.\nNoche tirante reluce.\nOlalla muerta en el árbol.\nTinteros de las ciudades\nvuelcan la tinta despacio.\nNegros maniquíes de sastre\ncubren la nieve del campo\nen largas filas que gimen\nsu silencio mutilado.\nNieve partida comienza.\nOlalla blanca en el árbol.\nEscuadras de níquel juntan\nlos picos en su costado.\n\nUna custodia reluce\nsobre los cielos quemados\nentre gargantas de arroyo\ny ruiseñores en ramos.\n¡Saltan vidrios de colores!\nOlalla blanca en lo blanco.\nÁngeles y serafines\ndicen: Santo, Santo, Santo.",
+        "subtitle": "III. Infierno y gloria",
+        "title": "Martirio de Santa Olalla"
+    },
+    {       
+        "book": "Romancero Gitano",
+        "body": "Por una vereda\nvenía Don Pedro.\n¡Ay cómo lloraba\nel caballero!\nMontado en un ágil\ncaballo sin freno,\nvenía en la busca\ndel pan y del beso.\nTodas las ventanas\npreguntan al viento,\npor el llanto oscuro\ndel caballero.",
+        "subtitle": "Burla de Don Pedro a caballo",
+        "title": "Burla de Don Pedro a caballo"
+    },
+    {       
+        "book": "Romancero Gitano",
+        "body": "Bajo el agua\nsiguen las palabras.\nSobre el agua\nuna luna redonda\nse baña,\ndando envidia a la otra\n¡tan alta!\nEn la orilla,\nun niño,\nve las lunas y dice:\n¡Noche; toca los platillos!\n\nA una ciudad lejana\nha llegado Don Pedro.\nUna ciudad de oro\nentre un bosque de cedros.\n¿Es Belén? Por el aire\nyerbaluisa y romero.\nBrillan las azoteas\ny las nubes. Don Pedro\npasa por arcos rotos.\nDos mujeres y un viejo\ncon velones de plata\nle salen al encuentro.\nLos chopos dicen: No.\nY el ruiseñor: Veremos.",
+        "subtitle": "Primera Laguna",
+        "title": "Burla de Don Pedro a caballo"
+    },
+    {       
+        "book": "Romancero Gitano",
+        "body": "Bajo el agua\nsiguen las palabras.\nSobre el peinado del agua\nun círculo de pájaros y llamas.\nY por los cañaverales,\ntestigos que conocen lo que falta.\nSueño concreto y sin norte\nde madera de guitarra.\n\nPor el camino llano\ndos mujeres y un viejo\ncon velones de plata\nvan al cementerio.\nEntre los azafranes\nhan encontrado muerto\nel sombrío caballo\nde Don Pedro.\nVoz secreta de tarde\nbalaba por el cielo.\nUnicornio de ausencia\nrompe en cristal su cuerno.\nLa gran ciudad lejana\nestá ardiendo\ny un hombre va llorando\ntierras adentro.\nAl Norte hay una estrella.\nAl Sur un marinero.",
+        "subtitle": "Segunda Laguna",
+        "title": "Burla de Don Pedro a caballo"
+    },
+    {       
+        "book": "Romancero Gitano",
+        "body": "Bajo el agua\nestán las palabras.\nLimo de voces perdidas.\nSobre la flor enfriada,\nestá Don Pedro olvidado,\n¡ay!, jugando con las ranas.",
+        "subtitle": "Última Laguna",
         "title": "Burla de Don Pedro a caballo"
     },
     {       
